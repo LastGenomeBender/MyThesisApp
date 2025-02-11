@@ -1,0 +1,3703 @@
+Pathway	Gene	OG_TSG
+Cell_Cycle	CDKN1A	TSG
+Cell_Cycle	CDKN1B	TSG
+Cell_Cycle	CDKN2A	TSG
+Cell_Cycle	CDKN2B	TSG
+Cell_Cycle	CDKN2C	TSG
+Cell_Cycle	CCND1	OG
+Cell_Cycle	CCND2	OG
+Cell_Cycle	CCND3	OG
+Cell_Cycle	CCNE1	OG
+Cell_Cycle	CDK2	OG
+Cell_Cycle	CDK4	OG
+Cell_Cycle	CDK6	OG
+Cell_Cycle	RB1	TSG
+Cell_Cycle	E2F1	OG
+Cell_Cycle	E2F3	OG
+Hippo	STK4	TSG
+Hippo	STK3	TSG
+Hippo	SAV1	TSG
+Hippo	LATS1	TSG
+Hippo	LATS2	TSG
+Hippo	MOB1A	TSG
+Hippo	MOB1B	TSG
+Hippo	YAP1	OG
+Hippo	WWTR1	OG
+Hippo	TEAD1	OG
+Hippo	TEAD2	OG
+Hippo	TEAD3	OG
+Hippo	TEAD4	OG
+Hippo	PTPN14	TSG
+Hippo	NF2	TSG
+Hippo	WWC1	TSG
+Hippo	TAOK1	TSG
+Hippo	TAOK2	TSG
+Hippo	TAOK3	TSG
+Hippo	CRB1	TSG
+Hippo	CRB2	TSG
+Hippo	CRB3	TSG
+Hippo	LLGL1	TSG
+Hippo	LLGL2	TSG
+Hippo	HMCN1	TSG
+Hippo	SCRIB	Unknown
+Hippo	HIPK2	OG
+Hippo	FAT1	TSG
+Hippo	FAT2	TSG
+Hippo	FAT3	TSG
+Hippo	FAT4	TSG
+Hippo	DCHS1	TSG
+Hippo	DCHS2	TSG
+Hippo	CSNK1E	TSG
+Hippo	CSNK1D	TSG
+Hippo	AJUBA	OG
+Hippo	LIMD1	OG
+Hippo	WTIP	OG
+MYC	MAX	TSG
+MYC	MGA	TSG
+MYC	MLX	TSG
+MYC	MLXIP	OG
+MYC	MLXIPL	OG
+MYC	MNT	TSG
+MYC	MXD1	
+MYC	MXD3	
+MYC	MXD4	
+MYC	MXI1	TSG
+MYC	MYC	OG
+MYC	MYCL	OG
+MYC	MYCN	OG
+NOTCH	ARRDC1	OG
+NOTCH	CNTN6	TSG
+NOTCH	CREBBP	TSG
+NOTCH	EP300	TSG
+NOTCH	HES1	TSG
+NOTCH	HES2	TSG
+NOTCH	HES3	TSG
+NOTCH	HES4	TSG
+NOTCH	HES5	TSG
+NOTCH	HEY1	TSG
+NOTCH	HEY2	TSG
+NOTCH	HEYL	TSG
+NOTCH	KAT2B	TSG
+NOTCH	KDM5A	OG
+NOTCH	NOTCH1	TSG
+NOTCH	NOTCH2	TSG
+NOTCH	NOTCH3	TSG
+NOTCH	NOTCH4	TSG
+NOTCH	NOV	TSG
+NOTCH	NRARP	OG
+NOTCH	PSEN2	TSG
+NOTCH	LFNG	
+NOTCH	ITCH	
+NOTCH	NCSTN	
+NOTCH	SPEN	TSG
+NOTCH	JAG1	
+NOTCH	APH1A	
+NOTCH	FBXW7	TSG
+NOTCH	FHL1	
+NOTCH	THBS2	
+NOTCH	HDAC2	
+NOTCH	MFAP2	
+NOTCH	CUL1	TSG
+NOTCH	RFNG	
+NOTCH	NCOR1	TSG
+NOTCH	NCOR2	TSG
+NOTCH	MFAP5	
+NOTCH	HDAC1	OG
+NOTCH	NUMB	
+NOTCH	JAG2	TSG
+NOTCH	MAML3	TSG
+NOTCH	MFNG	
+NOTCH	CIR1	
+NOTCH	CNTN1	
+NOTCH	MAML1	
+NOTCH	MAML2	
+NOTCH	NUMBL	
+NOTCH	PSEN1	
+NOTCH	PSENEN	
+NOTCH	RBPJ	
+NOTCH	RBPJL	
+NOTCH	RBX1	
+NOTCH	SAP30	
+NOTCH	SKP1	
+NOTCH	SNW1	
+NOTCH	CTBP1	
+NOTCH	CTBP2	
+NOTCH	ADAM10	
+NOTCH	APH1B	
+NOTCH	ADAM17	
+NOTCH	DLK1	
+NOTCH	DLL1	
+NOTCH	DLL3	
+NOTCH	DLL4	
+NOTCH	DNER	TSG
+NOTCH	DTX1	
+NOTCH	DTX2	
+NOTCH	DTX3	
+NOTCH	DTX3L	
+NOTCH	DTX4	
+NOTCH	EGFL7	
+NRF2	NFE2L2	OG
+NRF2	KEAP1	TSG
+NRF2	CUL3	TSG
+PI3K	EIF4EBP1	OG
+PI3K	AKT1	OG
+PI3K	AKT2	OG
+PI3K	AKT3	OG
+PI3K	AKT1S1	OG
+PI3K	DEPDC5	
+PI3K	DEPTOR	OG
+PI3K	INPP4B	TSG
+PI3K	MAPKAP1	OG
+PI3K	MLST8	OG
+PI3K	MTOR	OG
+PI3K	NPRL2	TSG
+PI3K	NPRL3	TSG
+PI3K	PDK1	OG
+PI3K	PIK3CA	OG
+PI3K	PIK3CB	OG
+PI3K	PIK3R1	TSG
+PI3K	PIK3R2	OG
+PI3K	PIK3R3	TSG
+PI3K	PPP2R1A	TSG
+PI3K	PTEN	TSG
+PI3K	RHEB	OG
+PI3K	RICTOR	OG
+PI3K	RPTOR	OG
+PI3K	RPS6	OG
+PI3K	RPS6KB1	OG
+PI3K	STK11	TSG
+PI3K	TSC1	TSG
+PI3K	TSC2	TSG
+TGF-Beta	TGFBR1	TSG
+TGF-Beta	TGFBR2	TSG
+TGF-Beta	ACVR2A	TSG
+TGF-Beta	ACVR1B	TSG
+TGF-Beta	SMAD2	TSG
+TGF-Beta	SMAD3	TSG
+TGF-Beta	SMAD4	TSG
+RTK-RAS	ABL1	OG
+RTK-RAS	EGFR	OG
+RTK-RAS	ERBB2	OG
+RTK-RAS	ERBB3	OG
+RTK-RAS	ERBB4	OG
+RTK-RAS	PDGFRA	OG
+RTK-RAS	PDGFRB	OG
+RTK-RAS	MET	OG
+RTK-RAS	FGFR1	OG
+RTK-RAS	FGFR2	OG
+RTK-RAS	FGFR3	OG
+RTK-RAS	FGFR4	OG
+RTK-RAS	FLT3	OG
+RTK-RAS	ALK	OG
+RTK-RAS	RET	OG
+RTK-RAS	ROS1	OG
+RTK-RAS	KIT	OG
+RTK-RAS	IGF1R	OG
+RTK-RAS	NTRK1	OG
+RTK-RAS	NTRK2	OG
+RTK-RAS	NTRK3	OG
+RTK-RAS	SOS1	OG
+RTK-RAS	GRB2	OG
+RTK-RAS	PTPN11	OG
+RTK-RAS	KRAS	OG
+RTK-RAS	HRAS	OG
+RTK-RAS	NRAS	OG
+RTK-RAS	RIT1	OG
+RTK-RAS	ARAF	OG
+RTK-RAS	BRAF	OG
+RTK-RAS	RAF1	OG
+RTK-RAS	RAC1	OG
+RTK-RAS	MAP2K1	OG
+RTK-RAS	MAP2K2	OG
+RTK-RAS	MAPK1	OG
+RTK-RAS	NF1	TSG
+RTK-RAS	RASA1	TSG
+RTK-RAS	CBL	TSG
+RTK-RAS	ERRFI1	TSG
+RTK-RAS	CBLB	NA
+RTK-RAS	CBLC	NA
+RTK-RAS	INSR	NA
+RTK-RAS	INSRR	NA
+RTK-RAS	IRS1	NA
+RTK-RAS	SOS2	NA
+RTK-RAS	SHC1	NA
+RTK-RAS	SHC2	NA
+RTK-RAS	SHC3	NA
+RTK-RAS	SHC4	NA
+RTK-RAS	RASGRP1	NA
+RTK-RAS	RASGRP2	NA
+RTK-RAS	RASGRP3	NA
+RTK-RAS	RASGRP4	NA
+RTK-RAS	RAPGEF1	NA
+RTK-RAS	RAPGEF2	NA
+RTK-RAS	RASGRF1	NA
+RTK-RAS	RASGRF2	NA
+RTK-RAS	FNTA	NA
+RTK-RAS	FNTB	NA
+RTK-RAS	RCE1	NA
+RTK-RAS	ICMT	NA
+RTK-RAS	MRAS	NA
+RTK-RAS	PLXNB1	NA
+RTK-RAS	MAPK3	NA
+RTK-RAS	ARHGAP35	NA
+RTK-RAS	RASA2	NA
+RTK-RAS	RASA3	NA
+RTK-RAS	RASAL1	NA
+RTK-RAS	RASAL2	NA
+RTK-RAS	RASAL3	NA
+RTK-RAS	SPRED1	NA
+RTK-RAS	SPRED2	NA
+RTK-RAS	SPRED3	NA
+RTK-RAS	DAB2IP	NA
+RTK-RAS	SHOC2	NA
+RTK-RAS	PPP1CA	NA
+RTK-RAS	SCRIB	NA
+RTK-RAS	PIN1	NA
+RTK-RAS	KSR1	NA
+RTK-RAS	KSR2	NA
+RTK-RAS	PEBP1	NA
+RTK-RAS	ERF	TSG
+RTK-RAS	PEA15	NA
+RTK-RAS	JAK2	OG
+RTK-RAS	IRS2	OG
+TP53	TP53	TSG
+TP53	MDM2	OG
+TP53	MDM4	OG
+TP53	ATM	TSG
+TP53	CHEK2	TSG
+TP53	RPS6KA3	OG
+WNT	CHD8	NA
+WNT	LEF1	OG
+WNT	LGR4	OG
+WNT	LGR5	OG
+WNT	LRP5	OG
+WNT	LRP6	OG
+WNT	LZTR1	NA
+WNT	NDP	NA
+WNT	PORCN	OG
+WNT	RSPO1	OG
+WNT	SFRP1	TSG
+WNT	SFRP2	TSG
+WNT	SFRP4	TSG
+WNT	SFRP5	TSG
+WNT	SOST	TSG
+WNT	TCF7L1	TSG
+WNT	TLE1	TSG
+WNT	TLE2	TSG
+WNT	TLE3	TSG
+WNT	TLE4	TSG
+WNT	WIF1	TSG
+WNT	ZNRF3	TSG
+WNT	CTNNB1	OG
+WNT	DVL1	OG
+WNT	DVL2	OG
+WNT	DVL3	OG
+WNT	FRAT1	OG
+WNT	FRAT2	OG
+WNT	FZD1	OG
+WNT	FZD10	OG
+WNT	FZD2	OG
+WNT	FZD3	OG
+WNT	FZD4	OG
+WNT	FZD5	OG
+WNT	FZD6	OG
+WNT	FZD7	OG
+WNT	FZD8	OG
+WNT	FZD9	OG
+WNT	WNT1	OG
+WNT	WNT10A	OG
+WNT	WNT10B	OG
+WNT	WNT11	OG
+WNT	WNT16	OG
+WNT	WNT2	OG
+WNT	WNT3A	OG
+WNT	WNT4	OG
+WNT	WNT5A	OG
+WNT	WNT5B	OG
+WNT	WNT6	OG
+WNT	WNT7A	OG
+WNT	WNT7B	OG
+WNT	WNT8A	OG
+WNT	WNT8B	OG
+WNT	WNT9A	OG
+WNT	WNT9B	OG
+WNT	AMER1	TSG
+WNT	APC	TSG
+WNT	AXIN1	TSG
+WNT	AXIN2	TSG
+WNT	DKK1	TSG
+WNT	DKK2	TSG
+WNT	DKK3	TSG
+WNT	DKK4	TSG
+WNT	GSK3B	TSG
+WNT	RNF43	TSG
+WNT	TCF7	TSG
+WNT	TCF7L2	TSG
+WNT	CHD4	
+Base Excision Repair	APLF	NA
+Base Excision Repair	APTX	NA
+Base Excision Repair	LIG1	NA
+Base Excision Repair	LIG3	NA
+Base Excision Repair	PARG	NA
+Base Excision Repair	PARP1	NA
+Base Excision Repair	PARP3	NA
+Base Excision Repair	PNKP	NA
+Base Excision Repair	POLB	NA
+Base Excision Repair	POLL	NA
+Base Excision Repair	XRCC1	NA
+Base Excision Repair	HMGB1	NA
+Base Excision Repair	PCNA	NA
+Base Excision Repair	POLD1	NA
+Base Excision Repair	POLD2	NA
+Base Excision Repair	POLD3	NA
+Base Excision Repair	POLD4	NA
+Base Excision Repair	RFC1	NA
+Base Excision Repair	RFC2	NA
+Base Excision Repair	RFC3	NA
+Base Excision Repair	RFC4	NA
+Base Excision Repair	RFC5	NA
+Base Excision Repair	ALKBH1	NA
+Base Excision Repair	APEX1	NA
+Base Excision Repair	APEX2	NA
+Base Excision Repair	FEN1	NA
+Base Excision Repair	HMGB2	NA
+Base Excision Repair	MBD4	NA
+Base Excision Repair	MPG	NA
+Base Excision Repair	MUTYH	NA
+Base Excision Repair	NEIL1	NA
+Base Excision Repair	NEIL2	NA
+Base Excision Repair	NEIL3	NA
+Base Excision Repair	NTHL1	NA
+Base Excision Repair	OGG1	NA
+Base Excision Repair	PARP2	NA
+Base Excision Repair	PARP4	NA
+Base Excision Repair	POLE	NA
+Base Excision Repair	POLE2	NA
+Base Excision Repair	POLE3	NA
+Base Excision Repair	POLE4	NA
+Base Excision Repair	POLK	NA
+Base Excision Repair	SMUG1	NA
+Base Excision Repair	TDG	NA
+Base Excision Repair	TDP1	NA
+Base Excision Repair	UNG	NA
+Base Excision Repair	WRN	NA
+Nucleotide Excision Repair 	LIG1	NA
+Nucleotide Excision Repair 	PCNA	NA
+Nucleotide Excision Repair 	POLD1	NA
+Nucleotide Excision Repair 	POLD2	NA
+Nucleotide Excision Repair 	POLD3	NA
+Nucleotide Excision Repair 	POLD4	NA
+Nucleotide Excision Repair 	RFC1	NA
+Nucleotide Excision Repair 	RFC2	NA
+Nucleotide Excision Repair 	RFC3	NA
+Nucleotide Excision Repair 	RFC4	NA
+Nucleotide Excision Repair 	RFC5	NA
+Nucleotide Excision Repair 	RPA1	NA
+Nucleotide Excision Repair 	RPA2	NA
+Nucleotide Excision Repair 	RPA3	NA
+Nucleotide Excision Repair 	RPA4	NA
+Nucleotide Excision Repair 	CCNH	NA
+Nucleotide Excision Repair 	CDK7	NA
+Nucleotide Excision Repair 	CETN2	NA
+Nucleotide Excision Repair 	CUL3	NA
+Nucleotide Excision Repair 	CUL4A	NA
+Nucleotide Excision Repair 	CUL5	NA
+Nucleotide Excision Repair 	DDB1	NA
+Nucleotide Excision Repair 	DDB2	NA
+Nucleotide Excision Repair 	ERCC1	NA
+Nucleotide Excision Repair 	ERCC2	NA
+Nucleotide Excision Repair 	ERCC3	NA
+Nucleotide Excision Repair 	ERCC4	NA
+Nucleotide Excision Repair 	ERCC5	NA
+Nucleotide Excision Repair 	ERCC6	NA
+Nucleotide Excision Repair 	ERCC8	NA
+Nucleotide Excision Repair 	GTF2H1	NA
+Nucleotide Excision Repair 	GTF2H2	NA
+Nucleotide Excision Repair 	GTF2H3	NA
+Nucleotide Excision Repair 	GTF2H4	NA
+Nucleotide Excision Repair 	GTF2H5	NA
+Nucleotide Excision Repair 	MMS19	NA
+Nucleotide Excision Repair 	MNAT1	NA
+Nucleotide Excision Repair 	POLE	NA
+Nucleotide Excision Repair 	POLE2	NA
+Nucleotide Excision Repair 	POLE3	NA
+Nucleotide Excision Repair 	POLE4	NA
+Nucleotide Excision Repair 	RAD23A	NA
+Nucleotide Excision Repair 	RAD23B	NA
+Nucleotide Excision Repair 	RBX1	NA
+Nucleotide Excision Repair 	TCEA1	NA
+Nucleotide Excision Repair 	TCEB1	NA
+Nucleotide Excision Repair 	TCEB2	NA
+Nucleotide Excision Repair 	UVSSA	NA
+Nucleotide Excision Repair 	XAB2	NA
+Nucleotide Excision Repair 	XPA	NA
+Nucleotide Excision Repair 	XPC	NA
+Mismatch Repair	LIG1	NA
+Mismatch Repair	EXO1	NA
+Mismatch Repair	HMGB1	NA
+Mismatch Repair	MLH1	NA
+Mismatch Repair	MLH3	NA
+Mismatch Repair	MSH2	NA
+Mismatch Repair	MSH3	NA
+Mismatch Repair	MSH6	NA
+Mismatch Repair	PCNA	NA
+Mismatch Repair	PMS1	NA
+Mismatch Repair	PMS2	NA
+Mismatch Repair	POLD1	NA
+Mismatch Repair	POLD2	NA
+Mismatch Repair	POLD3	NA
+Mismatch Repair	POLD4	NA
+Mismatch Repair	RFC1	NA
+Mismatch Repair	RFC2	NA
+Mismatch Repair	RFC3	NA
+Mismatch Repair	RFC4	NA
+Mismatch Repair	RFC5	NA
+Mismatch Repair	RPA1	NA
+Mismatch Repair	RPA2	NA
+Mismatch Repair	RPA3	NA
+Mismatch Repair	RPA4	NA
+Fanconi Anemia	XRCC2	NA
+Fanconi Anemia	APITD1	NA
+Fanconi Anemia	BARD1	NA
+Fanconi Anemia	BLM	NA
+Fanconi Anemia	BRCA1	NA
+Fanconi Anemia	BRCA2	NA
+Fanconi Anemia	BRE	NA
+Fanconi Anemia	BRIP1	NA
+Fanconi Anemia	ERCC1	NA
+Fanconi Anemia	ERCC4	NA
+Fanconi Anemia	FAAP100	NA
+Fanconi Anemia	FAAP24	NA
+Fanconi Anemia	FAAP20	NA
+Fanconi Anemia	FAN1	NA
+Fanconi Anemia	FANCA	NA
+Fanconi Anemia	FANCB	NA
+Fanconi Anemia	FANCC	NA
+Fanconi Anemia	FANCD2	NA
+Fanconi Anemia	FANCE	NA
+Fanconi Anemia	FANCF	NA
+Fanconi Anemia	FANCG	NA
+Fanconi Anemia	FANCI	NA
+Fanconi Anemia	FANCL	NA
+Fanconi Anemia	FANCM	NA
+Fanconi Anemia	HELQ	NA
+Fanconi Anemia	HES1	NA
+Fanconi Anemia	MAD2L2	NA
+Fanconi Anemia	PALB2	NA
+Fanconi Anemia	RAD51	NA
+Fanconi Anemia	RAD51C	NA
+Fanconi Anemia	RMI1	NA
+Fanconi Anemia	RMI2	NA
+Fanconi Anemia	SLX1A	NA
+Fanconi Anemia	SLX4	NA
+Fanconi Anemia	STRA13	NA
+Fanconi Anemia	TELO2	NA
+Fanconi Anemia	TOP3A	NA
+Fanconi Anemia	TOP3B	NA
+Fanconi Anemia	UBE2T	NA
+Fanconi Anemia	USP1	NA
+Fanconi Anemia	WDR48	NA
+Homology-dependent recombination	LIG1	NA
+Homology-dependent recombination	MRE11A	NA
+Homology-dependent recombination	NBN	NA
+Homology-dependent recombination	PARG	NA
+Homology-dependent recombination	PARP1	NA
+Homology-dependent recombination	PARPBP	NA
+Homology-dependent recombination	RAD50	NA
+Homology-dependent recombination	TP53BP1	NA
+Homology-dependent recombination	XRCC2	NA
+Homology-dependent recombination	XRCC3	NA
+Homology-dependent recombination	EXO1	NA
+Homology-dependent recombination	PCNA	NA
+Homology-dependent recombination	POLD1	NA
+Homology-dependent recombination	POLD2	NA
+Homology-dependent recombination	POLD3	NA
+Homology-dependent recombination	POLD4	NA
+Homology-dependent recombination	RFC1	NA
+Homology-dependent recombination	RFC2	NA
+Homology-dependent recombination	RFC3	NA
+Homology-dependent recombination	RFC4	NA
+Homology-dependent recombination	RFC5	NA
+Homology-dependent recombination	RPA1	NA
+Homology-dependent recombination	RPA2	NA
+Homology-dependent recombination	RPA3	NA
+Homology-dependent recombination	RPA4	NA
+Homology-dependent recombination	BARD1	NA
+Homology-dependent recombination	BLM	NA
+Homology-dependent recombination	BRCA1	NA
+Homology-dependent recombination	BRCA2	NA
+Homology-dependent recombination	BRIP1	NA
+Homology-dependent recombination	DMC1	NA
+Homology-dependent recombination	DNA2	NA
+Homology-dependent recombination	EID3	NA
+Homology-dependent recombination	EME1	NA
+Homology-dependent recombination	EME2	NA
+Homology-dependent recombination	ERCC1	NA
+Homology-dependent recombination	FANCM	NA
+Homology-dependent recombination	FEN1	NA
+Homology-dependent recombination	GEN1	NA
+Homology-dependent recombination	H2AFX	NA
+Homology-dependent recombination	HELQ	NA
+Homology-dependent recombination	HFM1	NA
+Homology-dependent recombination	INO80	NA
+Homology-dependent recombination	KAT5	NA
+Homology-dependent recombination	MUS81	NA
+Homology-dependent recombination	NFATC2IP	NA
+Homology-dependent recombination	NSMCE1	NA
+Homology-dependent recombination	NSMCE2	NA
+Homology-dependent recombination	NSMCE3	NA
+Homology-dependent recombination	NSMCE4A	NA
+Homology-dependent recombination	PALB2	NA
+Homology-dependent recombination	PARP2	NA
+Homology-dependent recombination	PAXIP1	NA
+Homology-dependent recombination	POLH	NA
+Homology-dependent recombination	POLQ	NA
+Homology-dependent recombination	PPP4C	NA
+Homology-dependent recombination	PPP4R1	NA
+Homology-dependent recombination	PPP4R2	NA
+Homology-dependent recombination	PPP4R4	NA
+Homology-dependent recombination	RAD51	NA
+Homology-dependent recombination	RAD51B	NA
+Homology-dependent recombination	RAD51C	NA
+Homology-dependent recombination	RAD51D	NA
+Homology-dependent recombination	RAD52	NA
+Homology-dependent recombination	RAD54B	NA
+Homology-dependent recombination	RAD54L	NA
+Homology-dependent recombination	RBBP8	NA
+Homology-dependent recombination	RDM1	NA
+Homology-dependent recombination	RECQL	NA
+Homology-dependent recombination	RECQL4	NA
+Homology-dependent recombination	RECQL5	NA
+Homology-dependent recombination	RMI1	NA
+Homology-dependent recombination	RMI2	NA
+Homology-dependent recombination	RTEL1	NA
+Homology-dependent recombination	SHFM1	NA
+Homology-dependent recombination	SLX1A	NA
+Homology-dependent recombination	SLX1B	NA
+Homology-dependent recombination	SLX4	NA
+Homology-dependent recombination	SMARCAD1	NA
+Homology-dependent recombination	SMC5	NA
+Homology-dependent recombination	SMC6	NA
+Homology-dependent recombination	SPO11	NA
+Homology-dependent recombination	SWSAP1	NA
+Homology-dependent recombination	TOP3A	NA
+Homology-dependent recombination	TOP3B	NA
+Homology-dependent recombination	UIMC1	NA
+Homology-dependent recombination	WRN	NA
+Homology-dependent recombination	ZSWIM7	NA
+Non-homologous End Joining	DNTT	NA
+Non-homologous End Joining	LIG4	NA
+Non-homologous End Joining	MRE11A	NA
+Non-homologous End Joining	NBN	NA
+Non-homologous End Joining	NHEJ1	NA
+Non-homologous End Joining	PARG	NA
+Non-homologous End Joining	PARP1	NA
+Non-homologous End Joining	PARP3	NA
+Non-homologous End Joining	PNKP	NA
+Non-homologous End Joining	POLB	NA
+Non-homologous End Joining	POLL	NA
+Non-homologous End Joining	POLM	NA
+Non-homologous End Joining	PRKDC	NA
+Non-homologous End Joining	RAD50	NA
+Non-homologous End Joining	RNF168	NA
+Non-homologous End Joining	RNF8	NA
+Non-homologous End Joining	TP53BP1	NA
+Non-homologous End Joining	XRCC4	NA
+Non-homologous End Joining	XRCC5	NA
+Non-homologous End Joining	XRCC6	NA
+Non-homologous End Joining	DCLRE1C	NA
+Non-homologous End Joining	FAM175A	NA
+Non-homologous End Joining	RIF1	NA
+Direct Repair	ASCC3	NA
+Direct Repair	ALKBH2	NA
+Direct Repair	ALKBH3	NA
+Direct Repair	MGMT	NA
+Translesion Synthesis	POLB	NA
+Translesion Synthesis	POLM	NA
+Translesion Synthesis	UBE2A	NA
+Translesion Synthesis	PCNA	NA
+Translesion Synthesis	HLTF	NA
+Translesion Synthesis	MAD2L2	NA
+Translesion Synthesis	POLH	NA
+Translesion Synthesis	POLI	NA
+Translesion Synthesis	POLK	NA
+Translesion Synthesis	POLN	NA
+Translesion Synthesis	POLQ	NA
+Translesion Synthesis	RAD18	NA
+Translesion Synthesis	REV1	NA
+Translesion Synthesis	REV3L	NA
+Translesion Synthesis	SHPRH	NA
+Translesion Synthesis	UBE2B	NA
+Translesion Synthesis	UBE2N	NA
+Translesion Synthesis	UBE2V2	NA
+Translesion Synthesis	USP1	NA
+Translesion Synthesis	WDR48	NA
+Nucleotide pools	NUDT1	NA
+Nucleotide pools	NUDT15	NA
+Nucleotide pools	NUDT18	NA
+Nucleotide pools	RRM1	NA
+Nucleotide pools	RRM2	NA
+Others – DDR	ATM	NA
+Others – DDR	ATR	NA
+Others – DDR	ATRIP	NA
+Others – DDR	ATRX	NA
+Others – DDR	CHAF1A	NA
+Others – DDR	CHEK1	NA
+Others – DDR	CHEK2	NA
+Others – DDR	CLK2	NA
+Others – DDR	DCLRE1A	NA
+Others – DDR	DCLRE1B	NA
+Others – DDR	DUT	NA
+Others – DDR	GADD45A	NA
+Others – DDR	GADD45G	NA
+Others – DDR	HUS1	NA
+Others – DDR	MDC1	NA
+Others – DDR	MPLKIP	NA
+Others – DDR	MRPL40	NA
+Others – DDR	NABP2	NA
+Others – DDR	PER1	NA
+Others – DDR	POLA1	NA
+Others – DDR	POLG	NA
+Others – DDR	PRPF19	NA
+Others – DDR	RAD1	NA
+Others – DDR	RAD17	NA
+Others – DDR	RAD9A	NA
+Others – DDR	RIF1	NA
+Others – DDR	RNMT	NA
+Others – DDR	RRM2B	NA
+Others – DDR	SETMAR	NA
+Others – DDR	SLX4	NA
+Others – DDR	TOPBP1	NA
+Others – DDR	TP53	NA
+Others – DDR	TREX1	NA
+Others – DDR	TREX2	NA
+Others – DDR	TYMS	NA
+Others – DDR	PTEN	NA
+Others – DDR	TDP2	NA
+Others – DDR	ENDOV	NA
+Others – DDR	SPRTN	NA
+Others – DDR	RNF4	NA
+Others – DDR	SMARCA4	NA
+Others – DDR	IDH1	NA
+Others – DDR	SOX4	NA
+Others – DDR	WEE1	NA
+Others – DDR	RAD9B	NA
+Others – DDR	AEN	NA
+Others – DDR	PLK3	NA
+Others – DDR	EXO5	NA
+Others – DDR	CDC5L	NA
+Others – DDR	BCAS2	NA
+Others – DDR	PLRG1	NA
+Others – DDR	YWHAB	NA
+Others – DDR	YWHAG	NA
+Others – DDR	YWHAE	NA
+Others – DDR	CDC25A	NA
+Others – DDR	CDC25B	NA
+Others – DDR	CDC25C	NA
+Others – DDR	BABAM1	NA
+Others – DDR	BRCC3	NA
+Others – DDR	TTK	NA
+Others – DDR	SMARCC1	NA
+Others – DDR	SWI5	NA
+Others – DDR	MORF4L1	NA
+Others – DDR	RNF169	NA
+Others – DDR	HERC2	NA
+DDR	APLF	NA
+DDR	APTX	NA
+DDR	ASCC3	NA
+DDR	DNTT	NA
+DDR	LIG1	NA
+DDR	LIG3	NA
+DDR	LIG4	NA
+DDR	MRE11A	NA
+DDR	NBN	NA
+DDR	NHEJ1	NA
+DDR	PARG	NA
+DDR	PARP1	NA
+DDR	PARP3	NA
+DDR	PARPBP	NA
+DDR	PNKP	NA
+DDR	POLB	NA
+DDR	POLL	NA
+DDR	POLM	NA
+DDR	PRKDC	NA
+DDR	RAD50	NA
+DDR	RNF168	NA
+DDR	RNF8	NA
+DDR	TP53BP1	NA
+DDR	XRCC1	NA
+DDR	XRCC2	NA
+DDR	XRCC3	NA
+DDR	XRCC4	NA
+DDR	XRCC5	NA
+DDR	XRCC6	NA
+DDR	UBE2A	NA
+DDR	EXO1	NA
+DDR	HMGB1	NA
+DDR	MLH1	NA
+DDR	MLH3	NA
+DDR	MSH2	NA
+DDR	MSH3	NA
+DDR	MSH6	NA
+DDR	PCNA	NA
+DDR	PMS1	NA
+DDR	PMS2	NA
+DDR	POLD1	NA
+DDR	POLD2	NA
+DDR	POLD3	NA
+DDR	POLD4	NA
+DDR	RFC1	NA
+DDR	RFC2	NA
+DDR	RFC3	NA
+DDR	RFC4	NA
+DDR	RFC5	NA
+DDR	RPA1	NA
+DDR	RPA2	NA
+DDR	RPA3	NA
+DDR	RPA4	NA
+DDR	ALKBH1	NA
+DDR	ALKBH2	NA
+DDR	ALKBH3	NA
+DDR	APEX1	NA
+DDR	APEX2	NA
+DDR	APITD1	NA
+DDR	ATM	NA
+DDR	ATR	NA
+DDR	ATRIP	NA
+DDR	ATRX	NA
+DDR	BARD1	NA
+DDR	BLM	NA
+DDR	BRCA1	NA
+DDR	BRCA2	NA
+DDR	BRE	NA
+DDR	BRIP1	NA
+DDR	CCNH	NA
+DDR	CDK7	NA
+DDR	CETN2	NA
+DDR	CHAF1A	NA
+DDR	CHEK1	NA
+DDR	CHEK2	NA
+DDR	CLK2	NA
+DDR	CUL3	NA
+DDR	CUL4A	NA
+DDR	CUL5	NA
+DDR	DCLRE1A	NA
+DDR	DCLRE1B	NA
+DDR	DCLRE1C	NA
+DDR	DDB1	NA
+DDR	DDB2	NA
+DDR	DMC1	NA
+DDR	DNA2	NA
+DDR	DUT	NA
+DDR	EID3	NA
+DDR	EME1	NA
+DDR	EME2	NA
+DDR	ERCC1	NA
+DDR	ERCC2	NA
+DDR	ERCC3	NA
+DDR	ERCC4	NA
+DDR	ERCC5	NA
+DDR	ERCC6	NA
+DDR	ERCC8	NA
+DDR	FAAP100	NA
+DDR	FAAP24	NA
+DDR	FAAP20	NA
+DDR	FAM175A	NA
+DDR	FAN1	NA
+DDR	FANCA	NA
+DDR	FANCB	NA
+DDR	FANCC	NA
+DDR	FANCD2	NA
+DDR	FANCE	NA
+DDR	FANCF	NA
+DDR	FANCG	NA
+DDR	FANCI	NA
+DDR	FANCL	NA
+DDR	FANCM	NA
+DDR	FEN1	NA
+DDR	GADD45A	NA
+DDR	GADD45G	NA
+DDR	GEN1	NA
+DDR	GTF2H1	NA
+DDR	GTF2H2	NA
+DDR	GTF2H3	NA
+DDR	GTF2H4	NA
+DDR	GTF2H5	NA
+DDR	H2AFX	NA
+DDR	HELQ	NA
+DDR	HES1	NA
+DDR	HFM1	NA
+DDR	HLTF	NA
+DDR	HMGB2	NA
+DDR	HUS1	NA
+DDR	INO80	NA
+DDR	KAT5	NA
+DDR	MAD2L2	NA
+DDR	MBD4	NA
+DDR	MDC1	NA
+DDR	MGMT	NA
+DDR	MMS19	NA
+DDR	MNAT1	NA
+DDR	MPG	NA
+DDR	MPLKIP	NA
+DDR	MRPL40	NA
+DDR	MUS81	NA
+DDR	MUTYH	NA
+DDR	NABP2	NA
+DDR	NEIL1	NA
+DDR	NEIL2	NA
+DDR	NEIL3	NA
+DDR	NFATC2IP	NA
+DDR	NSMCE1	NA
+DDR	NSMCE2	NA
+DDR	NSMCE3	NA
+DDR	NSMCE4A	NA
+DDR	NTHL1	NA
+DDR	NUDT1	NA
+DDR	NUDT15	NA
+DDR	NUDT18	NA
+DDR	RRM1	NA
+DDR	RRM2	NA
+DDR	OGG1	NA
+DDR	PALB2	NA
+DDR	PARP2	NA
+DDR	PARP4	NA
+DDR	PAXIP1	NA
+DDR	PER1	NA
+DDR	POLA1	NA
+DDR	POLE	NA
+DDR	POLE2	NA
+DDR	POLE3	NA
+DDR	POLE4	NA
+DDR	POLG	NA
+DDR	POLH	NA
+DDR	POLI	NA
+DDR	POLK	NA
+DDR	POLN	NA
+DDR	POLQ	NA
+DDR	PPP4C	NA
+DDR	PPP4R1	NA
+DDR	PPP4R2	NA
+DDR	PPP4R4	NA
+DDR	PRPF19	NA
+DDR	RAD1	NA
+DDR	RAD17	NA
+DDR	RAD18	NA
+DDR	RAD23A	NA
+DDR	RAD23B	NA
+DDR	RAD51	NA
+DDR	RAD51B	NA
+DDR	RAD51C	NA
+DDR	RAD51D	NA
+DDR	RAD52	NA
+DDR	RAD54B	NA
+DDR	RAD54L	NA
+DDR	RAD9A	NA
+DDR	RBBP8	NA
+DDR	RBX1	NA
+DDR	RDM1	NA
+DDR	RECQL	NA
+DDR	RECQL4	NA
+DDR	RECQL5	NA
+DDR	REV1	NA
+DDR	REV3L	NA
+DDR	RIF1	NA
+DDR	RMI1	NA
+DDR	RMI2	NA
+DDR	RNMT	NA
+DDR	RRM2B	NA
+DDR	RTEL1	NA
+DDR	SETMAR	NA
+DDR	SHFM1	NA
+DDR	SHPRH	NA
+DDR	SLX1A	NA
+DDR	SLX1B	NA
+DDR	SLX4	NA
+DDR	SMARCAD1	NA
+DDR	SMC5	NA
+DDR	SMC6	NA
+DDR	SMUG1	NA
+DDR	SPO11	NA
+DDR	STRA13	NA
+DDR	SWSAP1	NA
+DDR	TCEA1	NA
+DDR	TCEB1	NA
+DDR	TCEB2	NA
+DDR	TCEB3	NA
+DDR	TDG	NA
+DDR	TDP1	NA
+DDR	TELO2	NA
+DDR	TOP3A	NA
+DDR	TOP3B	NA
+DDR	TOPBP1	NA
+DDR	TP53	NA
+DDR	TREX1	NA
+DDR	TREX2	NA
+DDR	TYMS	NA
+DDR	UBE2B	NA
+DDR	UBE2N	NA
+DDR	UBE2T	NA
+DDR	UBE2V2	NA
+DDR	UIMC1	NA
+DDR	UNG	NA
+DDR	USP1	NA
+DDR	UVSSA	NA
+DDR	WDR48	NA
+DDR	WRN	NA
+DDR	XAB2	NA
+DDR	XPA	NA
+DDR	XPC	NA
+DDR	ZSWIM7	NA
+DDR	PTEN	NA
+DDR	TDP2	NA
+DDR	ENDOV	NA
+DDR	SPRTN	NA
+DDR	RNF4	NA
+DDR	SMARCA4	NA
+DDR	IDH1	NA
+DDR	SOX4	NA
+DDR	WEE1	NA
+DDR	RAD9B	NA
+DDR	AEN	NA
+DDR	PLK3	NA
+DDR	EXO5	NA
+DDR	CDC5L	NA
+DDR	BCAS2	NA
+DDR	PLRG1	NA
+DDR	YWHAB	NA
+DDR	YWHAG	NA
+DDR	YWHAE	NA
+DDR	CDC25A	NA
+DDR	CDC25B	NA
+DDR	CDC25C	NA
+DDR	BABAM1	NA
+DDR	BRCC3	NA
+DDR	TTK	NA
+DDR	SMARCC1	NA
+DDR	SWI5	NA
+DDR	MORF4L1	NA
+DDR	RNF169	NA
+DDR	HERC2	NA
+Base Excision Repair – Core	PARP1	NA
+Base Excision Repair – Core	POLB	NA
+Base Excision Repair – Core	APEX1	NA
+Base Excision Repair – Core	APEX2	NA
+Base Excision Repair – Core	FEN1	NA
+Base Excision Repair – Core	TDG	NA
+Base Excision Repair – Core	TDP1	NA
+Base Excision Repair – Core	UNG	NA
+Nucleotide Excision Repair – Core	CUL5	NA
+Nucleotide Excision Repair – Core	ERCC1	NA
+Nucleotide Excision Repair – Core	ERCC2	NA
+Nucleotide Excision Repair – Core	ERCC4	NA
+Nucleotide Excision Repair – Core	ERCC5	NA
+Nucleotide Excision Repair – Core	ERCC6	NA
+Nucleotide Excision Repair – Core	POLE	NA
+Nucleotide Excision Repair – Core	POLE3	NA
+Nucleotide Excision Repair – Core	XPA	NA
+Nucleotide Excision Repair – Core	XPC	NA
+Mismatch Repair – Core	EXO1	NA
+Mismatch Repair – Core	MLH1	NA
+Mismatch Repair – Core	MLH3	NA
+Mismatch Repair – Core	MSH2	NA
+Mismatch Repair – Core	MSH3	NA
+Mismatch Repair – Core	MSH6	NA
+Mismatch Repair – Core	PMS1	NA
+Mismatch Repair – Core	PMS2	NA
+Fanconi Anemia – Core	FANCA	NA
+Fanconi Anemia – Core	FANCB	NA
+Fanconi Anemia – Core	FANCC	NA
+Fanconi Anemia – Core	FANCD2	NA
+Fanconi Anemia – Core	FANCI	NA
+Fanconi Anemia – Core	FANCL	NA
+Fanconi Anemia – Core	FANCM	NA
+Fanconi Anemia – Core	UBE2T	NA
+Homologous Recomination – Core	MRE11A	NA
+Homologous Recomination – Core	NBN	NA
+Homologous Recomination – Core	RAD50	NA
+Homologous Recomination – Core	TP53BP1	NA
+Homologous Recomination – Core	XRCC2	NA
+Homologous Recomination – Core	XRCC3	NA
+Homologous Recomination – Core	BARD1	NA
+Homologous Recomination – Core	BLM	NA
+Homologous Recomination – Core	BRCA1	NA
+Homologous Recomination – Core	BRCA2	NA
+Homologous Recomination – Core	BRIP1	NA
+Homologous Recomination – Core	EME1	NA
+Homologous Recomination – Core	GEN1	NA
+Homologous Recomination – Core	MUS81	NA
+Homologous Recomination – Core	PALB2	NA
+Homologous Recomination – Core	RAD51	NA
+Homologous Recomination – Core	RAD52	NA
+Homologous Recomination – Core	RBBP8	NA
+Homologous Recomination – Core	SHFM1	NA
+Homologous Recomination – Core	SLX1A	NA
+Homologous Recomination – Core	TOP3A	NA
+Non-homologous End Joining – Core	LIG4	NA
+Non-homologous End Joining – Core	NHEJ1	NA
+Non-homologous End Joining – Core	POLL	NA
+Non-homologous End Joining – Core	POLM	NA
+Non-homologous End Joining – Core	PRKDC	NA
+Non-homologous End Joining – Core	XRCC4	NA
+Non-homologous End Joining – Core	XRCC5	NA
+Non-homologous End Joining – Core	XRCC6	NA
+Direct Repair – Core	ALKBH2	NA
+Direct Repair – Core	ALKBH3	NA
+Direct Repair – Core	MGMT	NA
+Translesion Synthesis – Core	POLN	NA
+Translesion Synthesis – Core	POLQ	NA
+Translesion Synthesis – Core	REV1	NA
+Translesion Synthesis – Core	REV3L	NA
+Translesion Synthesis – Core	SHPRH	NA
+Damage Sensor – Core	ATM	NA
+Damage Sensor – Core	ATR	NA
+Damage Sensor – Core	ATRIP	NA
+Damage Sensor – Core	CHEK1	NA
+Damage Sensor – Core	CHEK2	NA
+Damage Sensor – Core	MDC1	NA
+Damage Sensor – Core	RNMT	NA
+Damage Sensor – Core	TOPBP1	NA
+Damage Sensor – Core	TREX1	NA
+Splicing Factor Genes	AGGF1	NA
+Splicing Factor Genes	C9orf78	NA
+Splicing Factor Genes	CCAR1	NA
+Splicing Factor Genes	CD2BP2	NA
+Splicing Factor Genes	CDC5L	NA
+Splicing Factor Genes	CDK11A	NA
+Splicing Factor Genes	CDK12	NA
+Splicing Factor Genes	CELF4	NA
+Splicing Factor Genes	CFAP20	NA
+Splicing Factor Genes	CLK4	NA
+Splicing Factor Genes	CWC22	NA
+Splicing Factor Genes	DDX17	NA
+Splicing Factor Genes	DDX18	NA
+Splicing Factor Genes	DDX20	NA
+Splicing Factor Genes	DDX23	NA
+Splicing Factor Genes	DDX26B	NA
+Splicing Factor Genes	DDX27	NA
+Splicing Factor Genes	DDX3X	NA
+Splicing Factor Genes	DDX41	NA
+Splicing Factor Genes	DDX5	NA
+Splicing Factor Genes	DDX50	NA
+Splicing Factor Genes	DHX16	NA
+Splicing Factor Genes	DHX35	NA
+Splicing Factor Genes	DHX36	NA
+Splicing Factor Genes	DHX9	NA
+Splicing Factor Genes	EEF1A1	NA
+Splicing Factor Genes	EFTUD2	NA
+Splicing Factor Genes	EIF2S2	NA
+Splicing Factor Genes	ELAVL1	NA
+Splicing Factor Genes	ELAVL2	NA
+Splicing Factor Genes	ELAVL4	NA
+Splicing Factor Genes	FAM58A	NA
+Splicing Factor Genes	FRA10AC1	NA
+Splicing Factor Genes	FUBP1	NA
+Splicing Factor Genes	FUBP3	NA
+Splicing Factor Genes	GPATCH8	NA
+Splicing Factor Genes	HNRNPCL1	NA
+Splicing Factor Genes	HNRNPD	NA
+Splicing Factor Genes	HNRNPDL	NA
+Splicing Factor Genes	HNRNPH3	NA
+Splicing Factor Genes	HNRNPK	NA
+Splicing Factor Genes	HNRNPL	NA
+Splicing Factor Genes	IGF2BP3	NA
+Splicing Factor Genes	INTS4	NA
+Splicing Factor Genes	INTS7	NA
+Splicing Factor Genes	KIAA1429	NA
+Splicing Factor Genes	KIN	NA
+Splicing Factor Genes	MBNL2	NA
+Splicing Factor Genes	MOV10	NA
+Splicing Factor Genes	NCBP1	NA
+Splicing Factor Genes	NELFE	NA
+Splicing Factor Genes	NOVA1	NA
+Splicing Factor Genes	NSRP1	NA
+Splicing Factor Genes	PABPC1	NA
+Splicing Factor Genes	PCBP1	NA
+Splicing Factor Genes	PCBP2	NA
+Splicing Factor Genes	PCBP3	NA
+Splicing Factor Genes	PHF5A	NA
+Splicing Factor Genes	PLRG1	NA
+Splicing Factor Genes	PPIG	NA
+Splicing Factor Genes	PPIL1	NA
+Splicing Factor Genes	PPIL4	NA
+Splicing Factor Genes	PRPF3	NA
+Splicing Factor Genes	PRPF38B	NA
+Splicing Factor Genes	PRPF39	NA
+Splicing Factor Genes	PRPF40B	NA
+Splicing Factor Genes	PRPF4B	NA
+Splicing Factor Genes	PSIP1	NA
+Splicing Factor Genes	QKI	NA
+Splicing Factor Genes	RALYL	NA
+Splicing Factor Genes	RBBP6	NA
+Splicing Factor Genes	RBM10	NA
+Splicing Factor Genes	RBM15B	NA
+Splicing Factor Genes	RBM25	NA
+Splicing Factor Genes	RBM26	NA
+Splicing Factor Genes	RBM27	NA
+Splicing Factor Genes	RBM7	NA
+Splicing Factor Genes	RBM8A	NA
+Splicing Factor Genes	RBMX	NA
+Splicing Factor Genes	RBMX2	NA
+Splicing Factor Genes	RNF20	NA
+Splicing Factor Genes	SF1	NA
+Splicing Factor Genes	SF3B1	NA
+Splicing Factor Genes	SF3B2	NA
+Splicing Factor Genes	SF3B3	NA
+Splicing Factor Genes	SKIV2L2	NA
+Splicing Factor Genes	SNRNP200	NA
+Splicing Factor Genes	SNRNP35	NA
+Splicing Factor Genes	SNRNP48	NA
+Splicing Factor Genes	SNRPD3	NA
+Splicing Factor Genes	SNRPN	NA
+Splicing Factor Genes	SPEN	NA
+Splicing Factor Genes	SRSF2	NA
+Splicing Factor Genes	SRSF5	NA
+Splicing Factor Genes	SYNCRIP	NA
+Splicing Factor Genes	TCERG1	NA
+Splicing Factor Genes	THOC5	NA
+Splicing Factor Genes	THOC6	NA
+Splicing Factor Genes	THOC7	NA
+Splicing Factor Genes	THRAP3	NA
+Splicing Factor Genes	TIA1	NA
+Splicing Factor Genes	TIAL1	NA
+Splicing Factor Genes	TNPO1	NA
+Splicing Factor Genes	TRIM24	NA
+Splicing Factor Genes	TTC14	NA
+Splicing Factor Genes	U2AF1	NA
+Splicing Factor Genes	U2AF2	NA
+Splicing Factor Genes	U2SURP	NA
+Splicing Factor Genes	WBP11	NA
+Splicing Factor Genes	WBP4	NA
+Splicing Factor Genes	ZC3H13	NA
+Splicing Factor Genes	ZC3H18	NA
+Splicing Factor Genes	ZC3H4	NA
+Splicing Factor Genes	ZCCHC8	NA
+Splicing Factor Genes	ZCRB1	NA
+Splicing Factor Genes	ZMYM3	NA
+Splicing Factor Genes	ZNF131	NA
+Splicing Factor Genes	ZNF207	NA
+Splicing Factor Genes	ZRSR2	NA
+MISC	AGGF1	NA
+C	C9orf78	NA
+A	CCAR1	NA
+U5	CD2BP2	NA
+Prp19	CDC5L	NA
+A	CDK11A	NA
+MISC	CFAP20	NA
+B act	CWC22	NA
+A	DDX17	NA
+U5	DDX23	NA
+MISC	DDX3X	NA
+C	DDX41	NA
+A	DDX5	NA
+B act	DDX50	NA
+1st step	DHX16	NA
+C	DHX35	NA
+MISC	DHX9	NA
+U5	EFTUD2	NA
+MISC	ELAVL1	NA
+B act	FAM58A	NA
+C2	FRA10AC1	NA
+B act	FUBP3	NA
+hnRNP	HNRNPCL1	NA
+hnRNP	HNRNPD	NA
+hnRNP	HNRNPDL	NA
+hnRNP	HNRNPH3	NA
+hnRNP	HNRNPK	NA
+hnRNP	HNRNPL	NA
+integrator complex	INTS4	NA
+integrator complex	INTS7	NA
+B	KIN	NA
+B act	MOV10	NA
+MISC	NCBP1	NA
+MISC	NSRP1	NA
+MISC	PABPC1	NA
+hnRNP	PCBP1	NA
+hnRNP	PCBP2	NA
+hnRNP	PCBP3	NA
+U2	PHF5A	NA
+Prp19	PLRG1	NA
+C	PPIG	NA
+Prp19 rel	PPIL1	NA
+MISC	PPIL4	NA
+U4/U6	PRPF3	NA
+B	PRPF4B	NA
+MISC	QKI	NA
+hnRNP	RALYL	NA
+MISC	RBBP6	NA
+A	RBM10	NA
+A	RBM25	NA
+MISC	RBM7	NA
+EJC/TREX	RBM8A	NA
+hnRNP	RBMX	NA
+RES	RBMX2	NA
+A	SF1	NA
+U2	SF3B1	NA
+U2	SF3B2	NA
+U2	SF3B3	NA
+U5	SNRNP200	NA
+U11/U12	SNRNP35	NA
+U11/U12	SNRNP48	NA
+Sm	SNRPD3	NA
+Sm	SNRPN	NA
+SR	SRSF2	NA
+SR	SRSF5	NA
+hnRNP	SYNCRIP	NA
+A	TCERG1	NA
+EJC/TREX	THOC5	NA
+EJC/TREX	THOC6	NA
+EJC/TREX	THOC7	NA
+B	THRAP3	NA
+B act	TRIM24	NA
+C2	TTC14	NA
+U2 rel	U2AF1	NA
+U2 rel	U2AF2	NA
+U2 rel	U2SURP	NA
+Prp19	WBP11	NA
+B	WBP4	NA
+MISC	ZC3H18	NA
+U11/U12	ZCRB1	NA
+MISC	ZNF207	NA
+U11/U12	ZRSR2	NA
+DREAM targets	BUB1B	NA
+DREAM targets	CDCA3	NA
+DREAM targets	PLK1	NA
+DREAM targets	TTK	NA
+DREAM targets	PRC1	NA
+DREAM targets	AURKA	NA
+DREAM targets	KIF4A	NA
+DREAM targets	NUF2	NA
+DREAM targets	STIL	NA
+DREAM targets	CCNA2	NA
+DREAM targets	CCNB1	NA
+DREAM targets	KIF11	NA
+DREAM targets	NEK2	NA
+DREAM targets	TPX2	NA
+DREAM targets	CDKN3	NA
+DREAM targets	CENPF	NA
+DREAM targets	KIF18A	NA
+DREAM targets	RACGAP1	NA
+DREAM targets	CEP55	NA
+DREAM targets	FBXO5	NA
+DREAM targets	BIRC5	NA
+DREAM targets	BUB1	NA
+DREAM targets	CCNB2	NA
+DREAM targets	DEPDC1	NA
+DREAM targets	GTSE1	NA
+DREAM targets	KIF2C	NA
+DREAM targets	ANP32E	NA
+DREAM targets	ASPM	NA
+DREAM targets	AURKB	NA
+DREAM targets	CDC20	NA
+DREAM targets	CDC25A	NA
+DREAM targets	CDCA2	NA
+DREAM targets	DTL	NA
+DREAM targets	KIF14	NA
+DREAM targets	SGOL2	NA
+DREAM targets	ATAD2	NA
+DREAM targets	KIF20A	NA
+DREAM targets	LMNB1	NA
+DREAM targets	MAD2L1	NA
+DREAM targets	NDC80	NA
+DREAM targets	CENPL	NA
+DREAM targets	DLGAP5	NA
+DREAM targets	NCAPH	NA
+DREAM targets	SGOL1	NA
+DREAM targets	TMPO	NA
+DREAM targets	MCM7	NA
+DREAM targets	RFC3	NA
+DREAM targets	SMC4	NA
+DREAM targets	SPC25	NA
+DREAM targets	TICRR	NA
+DREAM targets	HAUS6	NA
+DREAM targets	CDC25C	NA
+DREAM targets	CDCA8	NA
+DREAM targets	ESPL1	NA
+DREAM targets	HMMR	NA
+DREAM targets	ARHGAP11A	NA
+DREAM targets	CIT	NA
+DREAM targets	DEPDC1B	NA
+DREAM targets	EXO1	NA
+DREAM targets	FAM64A	NA
+DREAM targets	CDCA7	NA
+DREAM targets	CKAP2L	NA
+DREAM targets	NUSAP1	NA
+DREAM targets	CHEK1	NA
+DREAM targets	HJURP	NA
+DREAM targets	INCENP	NA
+DREAM targets	PLK4	NA
+DREAM targets	WDHD1	NA
+DREAM targets	CCDC150	NA
+DREAM targets	SKA3	NA
+DREAM targets	CENPE	NA
+DREAM targets	TROAP	NA
+DREAM targets	SHCBP1	NA
+DREAM targets	SPAG5	NA
+DREAM targets	BRCA1	NA
+DREAM targets	FAM83D	NA
+DREAM targets	PBK	NA
+DREAM targets	KIF15	NA
+DREAM targets	GINS3	NA
+DREAM targets	PRR11	NA
+DREAM targets	RAD51AP1	NA
+DREAM targets	CENPO	NA
+DREAM targets	HAUS8	NA
+DREAM targets	MCM5	NA
+DREAM targets	H2AFX	NA
+DREAM targets	KIFC1	NA
+DREAM targets	RAD54L	NA
+DREAM targets	KIAA1524	NA
+DREAM targets	BORA	NA
+DREAM targets	RFC5	NA
+DREAM targets	SCLT1	NA
+DREAM targets	SPDL1	NA
+DREAM targets	UBE2T	NA
+DREAM targets	CENPN	NA
+DREAM targets	DIAPH3	NA
+DREAM targets	MDC1	NA
+DREAM targets	RRM2	NA
+DREAM targets	BLM	NA
+DREAM targets	NEIL3	NA
+DREAM targets	NUP35	NA
+DREAM targets	OIP5	NA
+DREAM targets	PIF1	NA
+DREAM targets	RAD51	NA
+DREAM targets	CASC5	NA
+DREAM targets	CDK1	NA
+DREAM targets	NDC1	NA
+DREAM targets	ESCO2	NA
+DREAM targets	EXOSC8	NA
+DREAM targets	FANCD2	NA
+DREAM targets	KNTC1	NA
+DREAM targets	ORC1	NA
+DREAM targets	RBL1	NA
+DREAM targets	TRAIP	NA
+DREAM targets	WDR62	NA
+DREAM targets	ZGRF1	NA
+DREAM targets	CDC45	NA
+DREAM targets	GSG2	NA
+DREAM targets	MIS18BP1	NA
+DREAM targets	PFAS	NA
+DREAM targets	CDC6	NA
+DREAM targets	UBE2S	NA
+DREAM targets	CKS1B	NA
+DREAM targets	CENPU	NA
+DREAM targets	FEN1	NA
+DREAM targets	IQGAP3	NA
+DREAM targets	MNS1	NA
+DREAM targets	CENPM	NA
+DREAM targets	DDIAS	NA
+DREAM targets	RTKN2	NA
+DREAM targets	ZWINT	NA
+DREAM targets	GINS1	NA
+DREAM targets	SMC2	NA
+DREAM targets	TOP2A	NA
+DREAM targets	RNF26	NA
+DREAM targets	CENPQ	NA
+DREAM targets	DBF4B	NA
+DREAM targets	FANCG	NA
+DREAM targets	USP37	NA
+DREAM targets	BRCA2	NA
+DREAM targets	INTS7	NA
+DREAM targets	MCM8	NA
+DREAM targets	PSMC3IP	NA
+DREAM targets	XRCC2	NA
+DREAM targets	C1orf112	NA
+DREAM targets	CCDC77	NA
+DREAM targets	CENPH	NA
+DREAM targets	CENPK	NA
+DREAM targets	CEP152	NA
+DREAM targets	TK1	NA
+DREAM targets	PTTG1	NA
+DREAM targets	YEATS4	NA
+DREAM targets	DDX11	NA
+DREAM targets	HAT1	NA
+DREAM targets	LSM5	NA
+DREAM targets	ATAD5	NA
+DREAM targets	C5orf34	NA
+DREAM targets	EME1	NA
+DREAM targets	FAM111A	NA
+DREAM targets	FANCM	NA
+DREAM targets	KIF24	NA
+DREAM targets	RQCD1	NA
+DREAM targets	SASS6	NA
+DREAM targets	E2F2	NA
+DREAM targets	KIAA0101	NA
+DREAM targets	METTL4	NA
+DREAM targets	ARHGAP11B	NA
+DREAM targets	CHEK2	NA
+DREAM targets	GMNN	NA
+DREAM targets	RRM1	NA
+DREAM targets	DNA2	NA
+DREAM targets	FANCB	NA
+DREAM targets	ORC6	NA
+DREAM targets	POC1A	NA
+DREAM targets	HELLS	NA
+DREAM targets	HIST1H3B	NA
+DREAM targets	HIST1H2AL	NA
+DREAM targets	MTF2	NA
+DREAM targets	C14orf80	NA
+DREAM targets	C17orf53	NA
+DREAM targets	C19orf40	NA
+DREAM targets	C19orf48	NA
+DREAM targets	DARS2	NA
+DREAM targets	HMGB1	NA
+DREAM targets	MTFR2	NA
+DREAM targets	MZT1	NA
+DREAM targets	PARPBP	NA
+DREAM targets	POC5	NA
+DREAM targets	SKA2	NA
+DREAM targets	TMEM194A	NA
+DREAM targets	TTI1	NA
+DREAM targets	TTF2	NA
+DREAM targets	HIST1H2BF	NA
+DREAM targets	HIST1H3F	NA
+DREAM targets	NUCKS1	NA
+DREAM targets	NUDCD2	NA
+DREAM targets	NOP58	NA
+DREAM targets	NUP107	NA
+DREAM targets	PCNT	NA
+DREAM targets	WBP11	NA
+DREAM targets	NPAT	NA
+DREAM targets	HIST1H2AH	NA
+DREAM targets	MSH5-SAPCD1	NA
+DREAM targets	IFT80	NA
+DREAM targets	RTTN	NA
+DREAM targets	SAE1	NA
+DREAM targets	SNRPA	NA
+DREAM targets	HIST1H2BL	NA
+DREAM targets	CCDC34	NA
+DREAM targets	CENPP	NA
+DREAM targets	FAM76B	NA
+DREAM targets	RDM1	NA
+DREAM targets	ZNF684	NA
+DREAM targets	BRD8	NA
+DREAM targets	AC004381.6	NA
+DREAM targets	MRE11A	NA
+DREAM targets	SETD8	NA
+DREAM targets	XRCC4	NA
+DREAM targets	AFMID	NA
+DREAM targets	DLEU1	NA
+DREAM targets	FOXRED1	NA
+DREAM targets	LOC642846	NA
+DREAM targets	LSM3	NA
+DREAM targets	NFATC2IP	NA
+DREAM targets	NUDT1	NA
+DREAM targets	PPIH	NA
+DREAM targets	SNRPB	NA
+DREAM targets	SRSF1	NA
+DREAM targets	APOBEC3B	NA
+DREAM targets	RAPGEF6	NA
+DREAM targets	DCLRE1C	NA
+DREAM targets	FAM110A	NA
+DREAM targets	HIST1H2AG	NA
+DREAM targets	DZIP3	NA
+DREAM targets	PCNA	NA
+DREAM targets	KIF23	NA
+DREAM targets	ANLN	NA
+DREAM targets	CENPA	NA
+DREAM targets	MKI67	NA
+DREAM targets	MELK	NA
+DREAM targets	TRIP13	NA
+DREAM targets	UBE2C	NA
+DREAM targets	MCM2	NA
+DREAM targets	MCM3	NA
+DREAM targets	FOXM1	NA
+DREAM targets	MASTL	NA
+DREAM targets	TIPIN	NA
+DREAM targets	CDCA5	NA
+DREAM targets	ARHGEF39	NA
+DREAM targets	MCM4	NA
+DREAM targets	TCF19	NA
+DREAM targets	DSN1	NA
+DREAM targets	NCAPD3	NA
+DREAM targets	NCAPG	NA
+DREAM targets	NCAPG2	NA
+DREAM targets	RFC4	NA
+DREAM targets	SLBP	NA
+DREAM targets	BARD1	NA
+DREAM targets	BRIP1	NA
+DREAM targets	DBF4	NA
+DREAM targets	NCAPD2	NA
+DREAM targets	RAD21	NA
+DREAM targets	RMI1	NA
+DREAM targets	USP1	NA
+DREAM targets	DUT	NA
+DREAM targets	C4orf46	NA
+DREAM targets	DCK	NA
+DREAM targets	MIS18A	NA
+DREAM targets	CDC25B	NA
+DREAM targets	HMGB2	NA
+DREAM targets	UNG	NA
+DREAM targets	KIF22	NA
+DREAM targets	DCLRE1A	NA
+DREAM targets	KIF20B	NA
+DREAM targets	POLE2	NA
+DREAM targets	FANCI	NA
+DREAM targets	MND1	NA
+DREAM targets	RAD18	NA
+DREAM targets	RNASEH2A	NA
+DREAM targets	TIMELESS	NA
+DREAM targets	ANKRD32	NA
+DREAM targets	POLD1	NA
+DREAM targets	RIF1	NA
+DREAM targets	SPC24	NA
+DREAM targets	STMN1	NA
+DREAM targets	CKS2	NA
+DREAM targets	CLSPN	NA
+DREAM targets	DCLRE1B	NA
+DREAM targets	NIF3L1	NA
+DREAM targets	POLA2	NA
+DREAM targets	POLQ	NA
+DREAM targets	EXOSC9	NA
+DREAM targets	ZWILCH	NA
+DREAM targets	CTDSPL2	NA
+DREAM targets	H2AFZ	NA
+DREAM targets	LIN54	NA
+DREAM targets	MMS22L	NA
+DREAM targets	RFWD3	NA
+DREAM targets	SMC3	NA
+DREAM targets	SNRNP40	NA
+DREAM targets	TOE1	NA
+DREAM targets	ASF1B	NA
+DREAM targets	CKAP5	NA
+DREAM targets	CDC7	NA
+DREAM targets	DSCC1	NA
+DREAM targets	TAF1A	NA
+DREAM targets	ZNF367	NA
+DREAM targets	CEP295	NA
+DREAM targets	MTHFD1	NA
+DREAM targets	RHNO1	NA
+DREAM targets	BCL2L12	NA
+DREAM targets	GEN1	NA
+DREAM targets	MTBP	NA
+DREAM targets	NUP155	NA
+DREAM targets	NUP85	NA
+DREAM targets	HIST1H4C	NA
+DREAM targets	ARL6IP1	NA
+DREAM targets	C2orf69	NA
+DREAM targets	LIN9	NA
+DREAM targets	ABCE1	NA
+DREAM targets	BAZ1B	NA
+DREAM targets	SPATA5	NA
+DREAM targets	CKAP2	NA
+DREAM targets	DHFR	NA
+DREAM targets	NASP	NA
+DREAM targets	RAD1	NA
+DREAM targets	ITGB3BP	NA
+DREAM targets	PRIM2	NA
+DREAM targets	CACYBP	NA
+DREAM targets	CMC2	NA
+DREAM targets	ERI1	NA
+DREAM targets	NUP205	NA
+DREAM targets	ORC3	NA
+DREAM targets	PRKDC	NA
+DREAM targets	SLC25A40	NA
+DREAM targets	ZNF473	NA
+DREAM targets	NET1	NA
+DREAM targets	RPA2	NA
+DREAM targets	KPNB1	NA
+DREAM targets	MXD3	NA
+DREAM targets	NUP43	NA
+DREAM targets	CEP57	NA
+DREAM targets	CEP78	NA
+DREAM targets	HNRNPA0	NA
+DREAM targets	RSRC1	NA
+DREAM targets	SP4	NA
+DREAM targets	SFPQ	NA
+DREAM targets	DDX10	NA
+DREAM targets	TBC1D31	NA
+DREAM targets	WEE1	NA
+DREAM targets	DNMT3B	NA
+DREAM targets	HIST1H3D	NA
+DREAM targets	HIST1H4A	NA
+DREAM targets	TCERG1	NA
+DREAM targets	TMEM97	NA
+DREAM targets	ZRANB3	NA
+DREAM targets	BRIX1	NA
+DREAM targets	CCHCR1	NA
+DREAM targets	CWF19L1	NA
+DREAM targets	DCAF16	NA
+DREAM targets	GGH	NA
+DREAM targets	HNRNPAB	NA
+DREAM targets	ING1	NA
+DREAM targets	MIIP	NA
+DREAM targets	POP7	NA
+DREAM targets	RMI2	NA
+DREAM targets	SFR1	NA
+DREAM targets	SMC6	NA
+DREAM targets	SRSF2	NA
+DREAM targets	UCHL5	NA
+DREAM targets	CDKN2D	NA
+DREAM targets	AHCTF1	NA
+DREAM targets	HIST1H3G	NA
+DREAM targets	ZNF551	NA
+DREAM targets	CCDC18	NA
+DREAM targets	DDX21	NA
+DREAM targets	HAUS5	NA
+DREAM targets	HEATR1	NA
+DREAM targets	KHSRP	NA
+DREAM targets	NCBP1	NA
+DREAM targets	TRIM37	NA
+DREAM targets	ZNF530	NA
+DREAM targets	CCDC15	NA
+DREAM targets	CSE1L	NA
+DREAM targets	HIST1H2AE	NA
+DREAM targets	APITD1	NA
+DREAM targets	CHCHD3	NA
+DREAM targets	LRR1	NA
+DREAM targets	MUTYH	NA
+DREAM targets	PEX3	NA
+DREAM targets	SLC3A2	NA
+DREAM targets	TCP1	NA
+DREAM targets	BUB3	NA
+DREAM targets	HIST1H2AC	NA
+DREAM targets	RANGAP1	NA
+DREAM targets	POU2F1	NA
+DREAM targets	ALG10	NA
+DREAM targets	HINT3	NA
+DREAM targets	HIST1H2AJ	NA
+DREAM targets	HIST1H2BO	NA
+DREAM targets	HNRNPA3	NA
+DREAM targets	NUP88	NA
+DREAM targets	SUPT16H	NA
+DREAM targets	CUL3	NA
+DREAM targets	DOLPP1	NA
+DREAM targets	GGCT	NA
+DREAM targets	GINS4	NA
+DREAM targets	GTF3C2	NA
+DREAM targets	HIST1H2AI	NA
+DREAM targets	HIST1H3C	NA
+DREAM targets	HNRNPA1	NA
+DREAM targets	KAT7	NA
+DREAM targets	METTL2B	NA
+DREAM targets	MIS12	NA
+DREAM targets	MSH3	NA
+DREAM targets	PALB2	NA
+DREAM targets	PIM1	NA
+DREAM targets	R3HDM1	NA
+DREAM targets	SEC22C	NA
+DREAM targets	HIST1H2AM	NA
+DREAM targets	LARP7	NA
+DREAM targets	DCP2	NA
+DREAM targets	HIST1H2BC	NA
+DREAM targets	KCTD9	NA
+DREAM targets	OARD1	NA
+DREAM targets	HIST1H2AD	NA
+DREAM targets	TOP1	NA
+DREAM targets	RAD51C	NA
+DREAM targets	AEN	NA
+DREAM targets	E2F8	NA
+DREAM targets	CHAF1A	NA
+DREAM targets	MCM10	NA
+DREAM targets	ARL6IP6	NA
+DREAM targets	AUNIP	NA
+DREAM targets	POLA1	NA
+DREAM targets	GINS2	NA
+DREAM targets	ARL13B	NA
+DREAM targets	MRTO4	NA
+DREAM targets	CDK2	NA
+DREAM targets	FAM111B	NA
+DREAM targets	NOLC1	NA
+DREAM targets	POLR1E	NA
+DREAM targets	CBX3	NA
+DREAM targets	CENPJ	NA
+DREAM targets	DNAJC9	NA
+DREAM targets	POLE3	NA
+DREAM targets	WRAP53	NA
+DREAM targets	VRK1	NA
+DREAM targets	CMSS1	NA
+DREAM targets	NEDD1	NA
+DREAM targets	SRSF7	NA
+DREAM targets	TDP1	NA
+DREAM targets	HIRIP3	NA
+DREAM targets	C1orf174	NA
+DREAM targets	HLTF	NA
+DREAM targets	LIN52	NA
+DREAM targets	TAF5	NA
+DREAM targets	CEP135	NA
+DREAM targets	HNRNPA2B1	NA
+DREAM targets	MED30	NA
+DREAM targets	HIST2H2AC	NA
+DREAM targets	REEP4	NA
+DREAM targets	CISD2	NA
+DREAM targets	PIGK	NA
+DREAM targets	H2AFV	NA
+DREAM targets	CREBZF	NA
+DREAM targets	HIST1H2BH	NA
+DREAM targets	HIST1H2BM	NA
+DREAM targets	GTPBP3	NA
+DREAM targets	NUP93	NA
+DREAM targets	RAD9A	NA
+DREAM targets	SP1	NA
+DREAM targets	GPD2	NA
+DREAM targets	HIST1H2AK	NA
+DREAM targets	ACTL6A	NA
+DREAM targets	DDX20	NA
+DREAM targets	FUS	NA
+DREAM targets	GRWD1	NA
+DREAM targets	HMBS	NA
+DREAM targets	ORC2	NA
+DREAM targets	XRCC1	NA
+DREAM targets	AAAS	NA
+DREAM targets	ATAD3B	NA
+DREAM targets	ATF4	NA
+DREAM targets	INIP	NA
+DREAM targets	MARCKS	NA
+DREAM targets	RDX	NA
+DREAM targets	ZW10	NA
+DREAM targets	UBE2D3	NA
+DREAM targets	EIF2AK3	NA
+DREAM targets	ZNFX1	NA
+DREAM targets	CCNF	NA
+DREAM targets	PARP2	NA
+DREAM targets	GPSM2	NA
+DREAM targets	G2E3	NA
+DREAM targets	WDR76	NA
+DREAM targets	POLD3	NA
+DREAM targets	GAS2L3	NA
+DREAM targets	MCM6	NA
+DREAM targets	RAD54B	NA
+DREAM targets	DTYMK	NA
+DREAM targets	NUP50	NA
+DREAM targets	CDK5RAP2	NA
+DREAM targets	MYBL2	NA
+DREAM targets	SAPCD2	NA
+DREAM targets	SSRP1	NA
+DREAM targets	PASK	NA
+DREAM targets	FAM161A	NA
+DREAM targets	KPNA2	NA
+DREAM targets	RNF219	NA
+DREAM targets	GART	NA
+DREAM targets	TCOF1	NA
+DREAM targets	TMEM209	NA
+DREAM targets	ZMYM1	NA
+DREAM targets	NUP160	NA
+DREAM targets	HAUS3	NA
+DREAM targets	RCC1	NA
+DREAM targets	CASP2	NA
+DREAM targets	SLC25A19	NA
+DREAM targets	MAGOHB	NA
+DREAM targets	RANBP1	NA
+DREAM targets	SUZ12	NA
+DREAM targets	AMD1	NA
+DREAM targets	AK2	NA
+DREAM targets	USP28	NA
+DREAM targets	ODF2	NA
+DREAM targets	RHEB	NA
+DREAM targets	FANCL	NA
+DREAM targets	UACA	NA
+DREAM targets	ABHD2	NA
+DREAM targets	C9orf40	NA
+DREAM targets	FKBPL	NA
+DREAM targets	GNL3	NA
+DREAM targets	HNRNPH1	NA
+DREAM targets	L3MBTL2	NA
+DREAM targets	MRPL17	NA
+DREAM targets	NAA15	NA
+DREAM targets	RBBP4	NA
+DREAM targets	WDYHV1	NA
+DREAM targets	ZNF146	NA
+DREAM targets	HIST1H3H	NA
+DREAM targets	MYC	NA
+DREAM targets	OPA1	NA
+DREAM targets	CENPC	NA
+DREAM targets	COQ7	NA
+DREAM targets	LYRM7	NA
+DREAM targets	CDKN2AIPNL	NA
+DREAM targets	CNOT1	NA
+DREAM targets	KIF2A	NA
+DREAM targets	LONP1	NA
+DREAM targets	SF3B3	NA
+DREAM targets	TMEM18	NA
+DREAM targets	XRCC6BP1	NA
+DREAM targets	ZNF45	NA
+DREAM targets	HN1	NA
+DREAM targets	RPL39L	NA
+DREAM targets	TRIM45	NA
+DREAM targets	GABPB2	NA
+DREAM targets	RBM8A	NA
+DREAM targets	DR1	NA
+DREAM targets	RBBP6	NA
+DREAM targets	HIST3H2A	NA
+DREAM targets	RUNX1	NA
+DREAM targets	E2F7	NA
+DREAM targets	HIST2H2BE	NA
+DREAM targets	TACC3	NA
+DREAM targets	SKA1	NA
+DREAM targets	ERCC6L	NA
+DREAM targets	MSH6	NA
+DREAM targets	PHF19	NA
+DREAM targets	FANCC	NA
+DREAM targets	JADE1	NA
+DREAM targets	ARHGAP19	NA
+DREAM targets	MSH2	NA
+DREAM targets	CDT1	NA
+DREAM targets	MPHOSPH9	NA
+DREAM targets	FIGNL1	NA
+DREAM targets	SKP2	NA
+DREAM targets	ECT2	NA
+DREAM targets	LBR	NA
+DREAM targets	UHRF1	NA
+DREAM targets	CDCA4	NA
+DREAM targets	DEK	NA
+DREAM targets	E2F1	NA
+DREAM targets	RFC2	NA
+DREAM targets	PKMYT1	NA
+DREAM targets	TOPBP1	NA
+DREAM targets	TRIM59	NA
+DREAM targets	C18orf54	NA
+DREAM targets	DNMT1	NA
+DREAM targets	POLR3K	NA
+DREAM targets	SMCHD1	NA
+DREAM targets	SUV39H2	NA
+DREAM targets	TRA2B	NA
+DREAM targets	KIF18B	NA
+DREAM targets	TUBB	NA
+DREAM targets	SYNCRIP	NA
+DREAM targets	GABPB1	NA
+DREAM targets	GSTCD	NA
+DREAM targets	NCAPH2	NA
+DREAM targets	pk	NA
+DREAM targets	SNRPD1	NA
+DREAM targets	TFAP4	NA
+DREAM targets	POLE	NA
+DREAM targets	C16orf59	NA
+DREAM targets	SUV39H1	NA
+DREAM targets	TFDP1	NA
+DREAM targets	AGPAT5	NA
+DREAM targets	CBX5	NA
+DREAM targets	NXT1	NA
+DREAM targets	SAAL1	NA
+DREAM targets	SMC1A	NA
+DREAM targets	NUP98	NA
+DREAM targets	CEP192	NA
+DREAM targets	FAF1	NA
+DREAM targets	NUP62	NA
+DREAM targets	PBX3	NA
+DREAM targets	RFC1	NA
+DREAM targets	CARHSP1	NA
+DREAM targets	CCT5	NA
+DREAM targets	CEP57L1	NA
+DREAM targets	CKLF	NA
+DREAM targets	HAUS4	NA
+DREAM targets	LCORL	NA
+DREAM targets	TTLL4	NA
+DREAM targets	ZNF273	NA
+DREAM targets	ATF7IP	NA
+DREAM targets	CASP8AP2	NA
+DREAM targets	RECQL4	NA
+DREAM targets	UBR7	NA
+DREAM targets	CHRAC1	NA
+DREAM targets	GPR19	NA
+DREAM targets	HAUS1	NA
+DREAM targets	HNRNPF	NA
+DREAM targets	HNRNPR	NA
+DREAM targets	LRRCC1	NA
+DREAM targets	MYO19	NA
+DREAM targets	NUP153	NA
+DREAM targets	PKP4	NA
+DREAM targets	SMPD4	NA
+DREAM targets	TSEN15	NA
+DREAM targets	HMGB3	NA
+DREAM targets	MDM1	NA
+DREAM targets	FN3KRP	NA
+DREAM targets	MYBL1	NA
+DREAM targets	SLC29A1	NA
+DREAM targets	STAG1	NA
+DREAM targets	TOP3A	NA
+DREAM targets	CDKAL1	NA
+DREAM targets	CENPW	NA
+DREAM targets	CEP72	NA
+DREAM targets	DDX39A	NA
+DREAM targets	DHX15	NA
+DREAM targets	FIGN	NA
+DREAM targets	HDGF	NA
+DREAM targets	HNRNPU	NA
+DREAM targets	PTBP1	NA
+DREAM targets	TOMM40	NA
+DREAM targets	ZNF714	NA
+DREAM targets	BCLAF1	NA
+DREAM targets	HIST1H4E	NA
+DREAM targets	ATF2	NA
+DREAM targets	KIAA1715	NA
+DREAM targets	PHTF2	NA
+DREAM targets	AARS	NA
+DREAM targets	ATAD3A	NA
+DREAM targets	EWSR1	NA
+DREAM targets	GATAD2A	NA
+DREAM targets	HMGXB4	NA
+DREAM targets	HS2ST1	NA
+DREAM targets	IPO11	NA
+DREAM targets	LRRC45	NA
+DREAM targets	PIGW	NA
+DREAM targets	PPP3R1	NA
+DREAM targets	PRIMPOL	NA
+DREAM targets	RNASEH2B	NA
+DREAM targets	SLC16A1	NA
+DREAM targets	SRSF10	NA
+DREAM targets	ZNF100	NA
+DREAM targets	FZR1	NA
+DREAM targets	SAP30	NA
+DREAM targets	HIST2H2AB	NA
+DREAM targets	ASXL1	NA
+DREAM targets	CCDC14	NA
+DREAM targets	CTCF	NA
+DREAM targets	DYRK1A	NA
+DREAM targets	FBXO4	NA
+DREAM targets	HIST1H1B	NA
+DREAM targets	HIST1H4I	NA
+DREAM targets	NAPEPLD	NA
+DREAM targets	NCOA5	NA
+DREAM targets	SIVA1	NA
+DREAM targets	TWISTNB	NA
+DREAM targets	ZNF680	NA
+DREAM targets	ARRB2	NA
+DREAM targets	AZIN1	NA
+DREAM targets	C12orf65	NA
+DREAM targets	CAND1	NA
+DREAM targets	CHTF18	NA
+DREAM targets	DHTKD1	NA
+DREAM targets	ELP5	NA
+DREAM targets	GARS	NA
+DREAM targets	GPATCH4	NA
+DREAM targets	HAUS7	NA
+DREAM targets	HMGN2	NA
+DREAM targets	HSPE1	NA
+DREAM targets	IFRD2	NA
+DREAM targets	NRGN	NA
+DREAM targets	PBRM1	NA
+DREAM targets	PRKRIR	NA
+DREAM targets	RAB8A	NA
+DREAM targets	SMARCC1	NA
+DREAM targets	STRA13	NA
+DREAM targets	TCEA1	NA
+DREAM targets	TONSL	NA
+DREAM targets	TOR1AIP1	NA
+DREAM targets	XRCC3	NA
+DREAM targets	ZNF107	NA
+DREAM targets	ZNF92	NA
+DREAM targets	ZMYND19	NA
+DREAM targets	RNPS1	NA
+DREAM targets	C5orf24	NA
+DREAM targets	HIST1H2BI	NA
+DREAM targets	HNRNPH3	NA
+DREAM targets	HSPD1	NA
+DREAM targets	KHDRBS1	NA
+DREAM targets	ANKRD17	NA
+DREAM targets	BYSL	NA
+DREAM targets	COX20	NA
+DREAM targets	CWC27	NA
+DREAM targets	CYP51A1	NA
+DREAM targets	DBP	NA
+DREAM targets	EXOSC3	NA
+DREAM targets	FAM178A	NA
+DREAM targets	GPR137C	NA
+DREAM targets	KNOP1	NA
+DREAM targets	LAS1L	NA
+DREAM targets	LSM4	NA
+DREAM targets	NUP54	NA
+DREAM targets	NUPL1	NA
+DREAM targets	PYCRL	NA
+DREAM targets	RRP9	NA
+DREAM targets	SMC5	NA
+DREAM targets	SNRNP25	NA
+DREAM targets	SRRM1	NA
+DREAM targets	TTF1	NA
+DREAM targets	WDR46	NA
+DREAM targets	WRN	NA
+DREAM targets	ZNF267	NA
+DREAM targets	RSBN1	NA
+DREAM targets	PCF11	NA
+DREAM targets	HIST1H1C	NA
+DREAM targets	HIST1H4H	NA
+DREAM targets	KATNA1	NA
+DREAM targets	MAT2A	NA
+DREAM targets	RPIA	NA
+DREAM targets	SERTAD3	NA
+DREAM targets	SSBP2	NA
+DREAM targets	TNPO2	NA
+DREAM targets	HSPA8	NA
+DREAM targets	JUND	NA
+DREAM targets	SLC25A36	NA
+DREAM targets	TOB2	NA
+DREAM targets	ZNF24	NA
+DREAM targets	PNRC2	NA
+DREAM targets	SEC14L1	NA
+DREAM targets	SS18	NA
+DREAM targets	RPS6KA5	NA
+DREAM targets	USP53	NA
+DREAM targets	SMIM14	NA
+DREAM targets	STAT1	NA
+DREAM targets	BTG1	NA
+DREAM targets	WHSC1	NA
+DREAM targets	PSRC1	NA
+DREAM targets	KNSTRN	NA
+DREAM targets	PRIM1	NA
+DREAM targets	CDCA7L	NA
+DREAM targets	FANCA	NA
+DREAM targets	FANCE	NA
+DREAM targets	HYLS1	NA
+DREAM targets	PAICS	NA
+DREAM targets	DPYSL2	NA
+DREAM targets	EXOSC2	NA
+DREAM targets	HNRNPD	NA
+DREAM targets	PSIP1	NA
+DREAM targets	CDKN2C	NA
+DREAM targets	CCSAP	NA
+DREAM targets	GRK6	NA
+DREAM targets	KLHL23	NA
+DREAM targets	CLN6	NA
+DREAM targets	FKBP5	NA
+DREAM targets	HAUS2	NA
+DREAM targets	PDS5B	NA
+DREAM targets	PPAT	NA
+DREAM targets	PRPF4	NA
+DREAM targets	HNRNPDL	NA
+DREAM targets	NOC3L	NA
+DREAM targets	RASSF1	NA
+DREAM targets	TUBA1C	NA
+DREAM targets	TUBD1	NA
+DREAM targets	CDK4	NA
+DREAM targets	EHBP1	NA
+DREAM targets	MYADM	NA
+DREAM targets	ANAPC1	NA
+DREAM targets	DCAF15	NA
+DREAM targets	ILF3	NA
+DREAM targets	MAZ	NA
+DREAM targets	NSMCE4A	NA
+DREAM targets	PGP	NA
+DREAM targets	SENP1	NA
+DREAM targets	SIN3A	NA
+DREAM targets	USP39	NA
+DREAM targets	WDR4	NA
+DREAM targets	MARS	NA
+DREAM targets	MEIS2	NA
+DREAM targets	SLC1A5	NA
+DREAM targets	CEP97	NA
+DREAM targets	EBP	NA
+DREAM targets	IQCB1	NA
+DREAM targets	OXNAD1	NA
+DREAM targets	RAD51B	NA
+DREAM targets	SPATS2	NA
+DREAM targets	TMEM109	NA
+DREAM targets	ZNF695	NA
+DREAM targets	CDR2	NA
+DREAM targets	NUFIP2	NA
+DREAM targets	ACD	NA
+DREAM targets	EIF3A	NA
+DREAM targets	GTPBP2	NA
+DREAM targets	HIST1H2AB	NA
+DREAM targets	HIST1H3J	NA
+DREAM targets	HIST1H4L	NA
+DREAM targets	SHMT2	NA
+DREAM targets	SMNDC1	NA
+DREAM targets	THRAP3	NA
+DREAM targets	BCS1L	NA
+DREAM targets	CEP85	NA
+DREAM targets	EXOSC5	NA
+DREAM targets	FAR1	NA
+DREAM targets	HSPA9	NA
+DREAM targets	HSPB11	NA
+DREAM targets	KHK	NA
+DREAM targets	PAFAH1B3	NA
+DREAM targets	POLD2	NA
+DREAM targets	PTGES3	NA
+DREAM targets	RAD23A	NA
+DREAM targets	SLC1A4	NA
+DREAM targets	TEX30	NA
+DREAM targets	TMEM39B	NA
+DREAM targets	CCNE1	NA
+DREAM targets	LDLR	NA
+DREAM targets	ZBTB14	NA
+DREAM targets	ZNF207	NA
+DREAM targets	CNTROB	NA
+DREAM targets	HIST1H4D	NA
+DREAM targets	CEP83	NA
+DREAM targets	DGCR8	NA
+DREAM targets	GRPEL2	NA
+DREAM targets	PRKAA1	NA
+DREAM targets	SLC38A1	NA
+DREAM targets	SLFN11	NA
+DREAM targets	TMEM138	NA
+DREAM targets	AIM1	NA
+DREAM targets	ALMS1	NA
+DREAM targets	CAD	NA
+DREAM targets	CLIC4	NA
+DREAM targets	EMG1	NA
+DREAM targets	GPR180	NA
+DREAM targets	KPNA3	NA
+DREAM targets	NAP1L1	NA
+DREAM targets	NT5C3A	NA
+DREAM targets	NUDC	NA
+DREAM targets	PATL1	NA
+DREAM targets	PGAP2	NA
+DREAM targets	PPAN-P2RY11	NA
+DREAM targets	RNF2	NA
+DREAM targets	RPL22L1	NA
+DREAM targets	SRSF3	NA
+DREAM targets	STIP1	NA
+DREAM targets	TBRG4	NA
+DREAM targets	UBE2R2	NA
+DREAM targets	ZNF184	NA
+DREAM targets	ZNF85	NA
+DREAM targets	AHI1	NA
+DREAM targets	ABHD10	NA
+DREAM targets	ACACA	NA
+DREAM targets	BIRC6	NA
+DREAM targets	EBAG9	NA
+DREAM targets	HCFC1	NA
+DREAM targets	IFRD1	NA
+DREAM targets	MRPS18B	NA
+DREAM targets	PIGA	NA
+DREAM targets	PTBP2	NA
+DREAM targets	RAD23B	NA
+DREAM targets	SPAG9	NA
+DREAM targets	TARS	NA
+DREAM targets	ZNF138	NA
+DREAM targets	ABCB10	NA
+DREAM targets	ACP1	NA
+DREAM targets	ARID2	NA
+DREAM targets	BMPR1A	NA
+DREAM targets	C2orf43	NA
+DREAM targets	C5orf30	NA
+DREAM targets	CIRH1A	NA
+DREAM targets	DCPS	NA
+DREAM targets	DDX46	NA
+DREAM targets	DSCR3	NA
+DREAM targets	EIF3B	NA
+DREAM targets	EXOC4	NA
+DREAM targets	FKBP7	NA
+DREAM targets	FOPNL	NA
+DREAM targets	G3BP1	NA
+DREAM targets	GPATCH11	NA
+DREAM targets	HACD2	NA
+DREAM targets	HADH	NA
+DREAM targets	HIST1H1D	NA
+DREAM targets	HIST1H2BE	NA
+DREAM targets	HIST2H3A	NA
+DREAM targets	HIST2H3D	NA
+DREAM targets	HSP90AA1	NA
+DREAM targets	KDM1A	NA
+DREAM targets	KLHDC4	NA
+DREAM targets	LIAS	NA
+DREAM targets	METTL16	NA
+DREAM targets	MRPL3	NA
+DREAM targets	NF2	NA
+DREAM targets	PLSCR1	NA
+DREAM targets	PMF1	NA
+DREAM targets	RFT1	NA
+DREAM targets	RMND1	NA
+DREAM targets	SMARCA5	NA
+DREAM targets	TCTN2	NA
+DREAM targets	THEM4	NA
+DREAM targets	THOC1	NA
+DREAM targets	TMX1	NA
+DREAM targets	TNPO3	NA
+DREAM targets	TUBG1	NA
+DREAM targets	TXNDC12	NA
+DREAM targets	UTP15	NA
+DREAM targets	VPRBP	NA
+DREAM targets	ZNF724P	NA
+DREAM targets	ETV5	NA
+DREAM targets	PKNOX1	NA
+DREAM targets	NOTCH2	NA
+DREAM targets	EIF4E	NA
+DREAM targets	FNBP4	NA
+DREAM targets	PNN	NA
+DREAM targets	NIPBL	NA
+DREAM targets	AP2B1	NA
+DREAM targets	BCAR3	NA
+DREAM targets	LCMT2	NA
+DREAM targets	EFHC1	NA
+DREAM targets	EAF2	NA
+DREAM targets	FBXL20	NA
+DREAM targets	FRAT2	NA
+DREAM targets	IFNAR1	NA
+DREAM targets	RNPC3	NA
+DREAM targets	ZNF518A	NA
+DREAM targets	ARRDC3	NA
+DREAM targets	PPP1R10	NA
+DREAM targets	PPP3CB	NA
+DREAM targets	ZNF587	NA
+DREAM targets	CDC42EP4	NA
+DREAM targets	IFIH1	NA
+DREAM targets	CFLAR	NA
+DREAM targets	PMAIP1	NA
+DREAM targets	GADD45A	NA
+DREAM targets	ANKRA2	NA
+DREAM targets	TP53INP1	NA
+DREAM targets	EZH2	NA
+DREAM targets	STK17B	NA
+DREAM targets	FAM72D	NA
+MBM FOXM1 Targets	TTK	NA
+MBM FOXM1 Targets	PRC1	NA
+MBM FOXM1 Targets	AURKA	NA
+MBM FOXM1 Targets	NUF2	NA
+MBM FOXM1 Targets	CCNA2	NA
+MBM FOXM1 Targets	CCNB1	NA
+MBM FOXM1 Targets	KIF11	NA
+MBM FOXM1 Targets	KIF23	NA
+MBM FOXM1 Targets	TPX2	NA
+MBM FOXM1 Targets	CDKN3	NA
+MBM FOXM1 Targets	CENPF	NA
+MBM FOXM1 Targets	KIF18A	NA
+MBM FOXM1 Targets	RACGAP1	NA
+MBM FOXM1 Targets	FBXO5	NA
+MBM FOXM1 Targets	CCNB2	NA
+MBM FOXM1 Targets	CENPA	NA
+MBM FOXM1 Targets	DEPDC1	NA
+MBM FOXM1 Targets	KIF2C	NA
+MBM FOXM1 Targets	ANP32E	NA
+MBM FOXM1 Targets	ASPM	NA
+MBM FOXM1 Targets	AURKB	NA
+MBM FOXM1 Targets	CDC20	NA
+MBM FOXM1 Targets	CDCA2	NA
+MBM FOXM1 Targets	KIF14	NA
+MBM FOXM1 Targets	ATAD2	NA
+MBM FOXM1 Targets	KIF20A	NA
+MBM FOXM1 Targets	DLGAP5	NA
+MBM FOXM1 Targets	CDC25C	NA
+MBM FOXM1 Targets	CDCA8	NA
+MBM FOXM1 Targets	ESPL1	NA
+MBM FOXM1 Targets	HMMR	NA
+MBM FOXM1 Targets	UBE2C	NA
+MBM FOXM1 Targets	CKAP2L	NA
+MBM FOXM1 Targets	NUSAP1	NA
+MBM FOXM1 Targets	HJURP	NA
+MBM FOXM1 Targets	INCENP	NA
+MBM FOXM1 Targets	SPAG5	NA
+MBM FOXM1 Targets	PRR11	NA
+MBM FOXM1 Targets	H2AFX	NA
+MBM FOXM1 Targets	BORA	NA
+MBM FOXM1 Targets	HMGB2	NA
+MBM FOXM1 Targets	ECT2	NA
+MBM FOXM1 Targets	OIP5	NA
+MBM FOXM1 Targets	PIF1	NA
+MBM FOXM1 Targets	CDK1	NA
+MBM FOXM1 Targets	KIF20B	NA
+MBM FOXM1 Targets	UBE2S	NA
+MBM FOXM1 Targets	RNF26	NA
+MBM FOXM1 Targets	KIF18B	NA
+MBM FOXM1 Targets	CBX3	NA
+MBM FOXM1 Targets	TAF5	NA
+MBM FOXM1 Targets	HNRNPA2B1	NA
+MBM FOXM1 Targets	MZT1	NA
+MBM FOXM1 Targets	SKA2	NA
+MBM FOXM1 Targets	SFPQ	NA
+MBM FOXM1 Targets	WEE1	NA
+MBM FOXM1 Targets	NUCKS1	NA
+MBM FOXM1 Targets	NUDCD2	NA
+MBM FOXM1 Targets	BRD8	NA
+MBM FOXM1 Targets	MRPS18B	NA
+MBM FOXM1 Targets	HIST1H2AG	NA
+MBM FOXM1 Targets	KCTD9	NA
+MBM FOXM1 Targets	DZIP3	NA
+MBM FOXM1 Targets	PPP1R10	NA
+MBM FOXM1 Targets	BUB1B	NA
+MBM FOXM1 Targets	CDCA3	NA
+MBM FOXM1 Targets	PLK1	NA
+MBM FOXM1 Targets	KIF4A	NA
+MBM FOXM1 Targets	STIL	NA
+MBM FOXM1 Targets	NEK2	NA
+MBM FOXM1 Targets	ANLN	NA
+MBM FOXM1 Targets	BUB1	NA
+MBM FOXM1 Targets	GTSE1	NA
+MBM FOXM1 Targets	MKI67	NA
+MBM FOXM1 Targets	SGOL2	NA
+MBM FOXM1 Targets	LMNB1	NA
+MBM FOXM1 Targets	CENPL	NA
+MBM FOXM1 Targets	SGOL1	NA
+MBM FOXM1 Targets	SMC4	NA
+MBM FOXM1 Targets	SPC25	NA
+MBM FOXM1 Targets	TICRR	NA
+MBM FOXM1 Targets	CIT	NA
+MBM FOXM1 Targets	KNSTRN	NA
+MBM FOXM1 Targets	TROAP	NA
+MBM FOXM1 Targets	ARHGEF39	NA
+MBM FOXM1 Targets	FAM83D	NA
+MBM FOXM1 Targets	KIF15	NA
+MBM FOXM1 Targets	NCAPG	NA
+MBM FOXM1 Targets	PHF19	NA
+MBM FOXM1 Targets	CENPO	NA
+MBM FOXM1 Targets	ARHGAP19	NA
+MBM FOXM1 Targets	KIAA1524	NA
+MBM FOXM1 Targets	NCAPD2	NA
+MBM FOXM1 Targets	RAD21	NA
+MBM FOXM1 Targets	CKS1B	NA
+MBM FOXM1 Targets	H2AFZ	NA
+MBM FOXM1 Targets	TOP2A	NA
+MBM FOXM1 Targets	CKAP5	NA
+MBM FOXM1 Targets	HIST1H4C	NA
+MBM FOXM1 Targets	PTTG1	NA
+MBM FOXM1 Targets	KPNA2	NA
+MBM FOXM1 Targets	C2orf69	NA
+MBM FOXM1 Targets	LSM5	NA
+MBM FOXM1 Targets	CBX5	NA
+MBM FOXM1 Targets	CKAP2	NA
+MBM FOXM1 Targets	CHEK2	NA
+MBM FOXM1 Targets	CEP192	NA
+MBM FOXM1 Targets	DARS2	NA
+MBM FOXM1 Targets	POC5	NA
+MBM FOXM1 Targets	TTF2	NA
+MBM FOXM1 Targets	DCAF16	NA
+MBM FOXM1 Targets	CDKN2D	NA
+MBM FOXM1 Targets	GTPBP2	NA
+MBM FOXM1 Targets	IFT80	NA
+MBM FOXM1 Targets	PTGES3	NA
+MBM FOXM1 Targets	FZR1	NA
+MBM FOXM1 Targets	HIST2H2AB	NA
+MBM FOXM1 Targets	ASXL1	NA
+MBM FOXM1 Targets	HNRNPA1	NA
+MBM FOXM1 Targets	HN1	NA
+MBM FOXM1 Targets	FNBP4	NA
+MBM FOXM1 Targets	HIST1H2BC	NA
+MBM FOXM1 Targets	TGIF1	NA
+MBM FOXM1 Targets	CEP55	NA
+MBM FOXM1 Targets	MAD2L1	NA
+MBM FOXM1 Targets	NDC80	NA
+MBM FOXM1 Targets	NCAPH	NA
+MBM FOXM1 Targets	GPSM2	NA
+MBM FOXM1 Targets	DEPDC1B	NA
+MBM FOXM1 Targets	FAM64A	NA
+MBM FOXM1 Targets	CENPE	NA
+MBM FOXM1 Targets	KIFC1	NA
+MBM FOXM1 Targets	SCLT1	NA
+MBM FOXM1 Targets	UBE2T	NA
+MBM FOXM1 Targets	MDC1	NA
+MBM FOXM1 Targets	MIS18BP1	NA
+MBM FOXM1 Targets	CKS2	NA
+MBM FOXM1 Targets	IQGAP3	NA
+MBM FOXM1 Targets	RFWD3	NA
+MBM FOXM1 Targets	SMC3	NA
+MBM FOXM1 Targets	DBF4B	NA
+MBM FOXM1 Targets	EZH2	NA
+MBM FOXM1 Targets	CEP295	NA
+MBM FOXM1 Targets	CDKN2C	NA
+MBM FOXM1 Targets	ARL6IP1	NA
+MBM FOXM1 Targets	ATAD5	NA
+MBM FOXM1 Targets	C5orf34	NA
+MBM FOXM1 Targets	KIF24	NA
+MBM FOXM1 Targets	METTL4	NA
+MBM FOXM1 Targets	NUP98	NA
+MBM FOXM1 Targets	ARHGAP11B	NA
+MBM FOXM1 Targets	TUBA1C	NA
+MBM FOXM1 Targets	ATF7IP	NA
+MBM FOXM1 Targets	CEP70	NA
+MBM FOXM1 Targets	HIST1H3B	NA
+MBM FOXM1 Targets	MXD3	NA
+MBM FOXM1 Targets	MTFR2	NA
+MBM FOXM1 Targets	PARPBP	NA
+MBM FOXM1 Targets	HIST1H2BF	NA
+MBM FOXM1 Targets	HIST1H3D	NA
+MBM FOXM1 Targets	PCNT	NA
+MBM FOXM1 Targets	TOMM40	NA
+MBM FOXM1 Targets	KIAA0586	NA
+MBM FOXM1 Targets	H2AFV	NA
+MBM FOXM1 Targets	MSH5-SAPCD1	NA
+MBM FOXM1 Targets	IPO11	NA
+MBM FOXM1 Targets	HIST1H2AE	NA
+MBM FOXM1 Targets	HIST1H2AK	NA
+MBM FOXM1 Targets	SUN2	NA
+MBM FOXM1 Targets	CAND1	NA
+MBM FOXM1 Targets	BUB3	NA
+MBM FOXM1 Targets	NFIA	NA
+MBM FOXM1 Targets	RANGAP1	NA
+MBM FOXM1 Targets	HP1BP3	NA
+MBM FOXM1 Targets	NAV2	NA
+MBM FOXM1 Targets	SETD8	NA
+MBM FOXM1 Targets	ARF6	NA
+MBM FOXM1 Targets	LSM3	NA
+MBM FOXM1 Targets	SF3B3	NA
+MBM FOXM1 Targets	TMX2	NA
+MBM FOXM1 Targets	NDE1	NA
+MBM FOXM1 Targets	PPP2R5C	NA
+MBM FOXM1 Targets	EIF4E	NA
+MBM FOXM1 Targets	ZNF165	NA
+MBM FOXM1 Targets	DCP2	NA
+MBM FOXM1 Targets	FAM110A	NA
+MBM FOXM1 Targets	HIST1H2BD	NA
+MBM FOXM1 Targets	HIST1H2AD	NA
+MBM FOXM1 Targets	EIF2AK3	NA
+MBM FOXM1 Targets	DNAJB4	NA
+MBM FOXM1 Targets	SMAD3	NA
+MBM FOXM1 Targets	BIRC5	NA
+MBM FOXM1 Targets	CCNF	NA
+MBM FOXM1 Targets	CDC25A	NA
+MBM FOXM1 Targets	DTL	NA
+MBM FOXM1 Targets	PSRC1	NA
+MBM FOXM1 Targets	TACC3	NA
+MBM FOXM1 Targets	ARHGAP11A	NA
+MBM FOXM1 Targets	PLK4	NA
+MBM FOXM1 Targets	CDCA5	NA
+MBM FOXM1 Targets	E2F8	NA
+MBM FOXM1 Targets	GAS2L3	NA
+MBM FOXM1 Targets	RAD54L	NA
+MBM FOXM1 Targets	DBF4	NA
+MBM FOXM1 Targets	USP1	NA
+MBM FOXM1 Targets	CENPN	NA
+MBM FOXM1 Targets	CDC25B	NA
+MBM FOXM1 Targets	LBR	NA
+MBM FOXM1 Targets	RRM2	NA
+MBM FOXM1 Targets	NUP35	NA
+MBM FOXM1 Targets	NDC1	NA
+MBM FOXM1 Targets	ESCO2	NA
+MBM FOXM1 Targets	HYLS1	NA
+MBM FOXM1 Targets	USP13	NA
+MBM FOXM1 Targets	ZGRF1	NA
+MBM FOXM1 Targets	GSG2	NA
+MBM FOXM1 Targets	ASF1B	NA
+MBM FOXM1 Targets	INTS7	NA
+MBM FOXM1 Targets	GRK6	NA
+MBM FOXM1 Targets	LIN9	NA
+MBM FOXM1 Targets	CMSS1	NA
+MBM FOXM1 Targets	FARSB	NA
+MBM FOXM1 Targets	STK17B	NA
+MBM FOXM1 Targets	CACYBP	NA
+MBM FOXM1 Targets	CMC2	NA
+MBM FOXM1 Targets	NUP205	NA
+MBM FOXM1 Targets	SLC25A40	NA
+MBM FOXM1 Targets	HIST1H2AL	NA
+MBM FOXM1 Targets	KPNB1	NA
+MBM FOXM1 Targets	MTF2	NA
+MBM FOXM1 Targets	NOP16	NA
+MBM FOXM1 Targets	HNRNPA0	NA
+MBM FOXM1 Targets	ILF3	NA
+MBM FOXM1 Targets	PGP	NA
+MBM FOXM1 Targets	REEP4	NA
+MBM FOXM1 Targets	HIST1H3F	NA
+MBM FOXM1 Targets	TCERG1	NA
+MBM FOXM1 Targets	CENPW	NA
+MBM FOXM1 Targets	HIST1H2AH	NA
+MBM FOXM1 Targets	ODF2	NA
+MBM FOXM1 Targets	HIST1H2BH	NA
+MBM FOXM1 Targets	HIST1H3G	NA
+MBM FOXM1 Targets	LDLR	NA
+MBM FOXM1 Targets	GAR1	NA
+MBM FOXM1 Targets	CCDC34	NA
+MBM FOXM1 Targets	EXTL2	NA
+MBM FOXM1 Targets	PGAP2	NA
+MBM FOXM1 Targets	TOR1AIP1	NA
+MBM FOXM1 Targets	SLC7A11	NA
+MBM FOXM1 Targets	AC004381.6	NA
+MBM FOXM1 Targets	TAF15	NA
+MBM FOXM1 Targets	ELP4	NA
+MBM FOXM1 Targets	HIST1H2BI	NA
+MBM FOXM1 Targets	HIST1H2BO	NA
+MBM FOXM1 Targets	ZFAND3	NA
+MBM FOXM1 Targets	CNOT1	NA
+MBM FOXM1 Targets	EIF3B	NA
+MBM FOXM1 Targets	FAM102B	NA
+MBM FOXM1 Targets	HIST1H3C	NA
+MBM FOXM1 Targets	IMMP1L	NA
+MBM FOXM1 Targets	LIAS	NA
+MBM FOXM1 Targets	PIM1	NA
+MBM FOXM1 Targets	RNFT2	NA
+MBM FOXM1 Targets	HIST1H2AM	NA
+MBM FOXM1 Targets	RSBN1	NA
+MBM FOXM1 Targets	LARP7	NA
+MBM FOXM1 Targets	DCLRE1C	NA
+MBM FOXM1 Targets	TXNRD1	NA
+MBM FOXM1 Targets	NFE2L2	NA
+MBM FOXM1 Targets	DR1	NA
+MBM FOXM1 Targets	NUMB	NA
+MBM FOXM1 Targets	DYNLL1	NA
+MBM FOXM1 Targets	SS18	NA
+MBM FOXM1 Targets	SMIM14	NA
+MBM FOXM1 Targets	NEDD9	NA
+MBM FOXM1 Targets	PTP4A1	NA
+MBM FOXM1 Targets	G2E3	NA
+MBM FOXM1 Targets	PDS5B	NA
+MBM FOXM1 Targets	SKA1	NA
+MBM FOXM1 Targets	SMCHD1	NA
+MBM FOXM1 Targets	FAM72D	NA
+MBM FOXM1 Targets	POLE	NA
+RB-E2F Targets	CDC25A	NA
+RB-E2F Targets	DTL	NA
+RB-E2F Targets	ATAD2	NA
+RB-E2F Targets	MCM7	NA
+RB-E2F Targets	MCM2	NA
+RB-E2F Targets	CDCA7	NA
+RB-E2F Targets	MCM3	NA
+RB-E2F Targets	CHEK1	NA
+RB-E2F Targets	TIPIN	NA
+RB-E2F Targets	WDR76	NA
+RB-E2F Targets	POLD3	NA
+RB-E2F Targets	PRIM1	NA
+RB-E2F Targets	MCM6	NA
+RB-E2F Targets	MSH6	NA
+RB-E2F Targets	MCM4	NA
+RB-E2F Targets	TCF19	NA
+RB-E2F Targets	GINS3	NA
+RB-E2F Targets	PRR11	NA
+RB-E2F Targets	HAUS8	NA
+RB-E2F Targets	RFC4	NA
+RB-E2F Targets	CHAF1A	NA
+RB-E2F Targets	MSH2	NA
+RB-E2F Targets	RAD54L	NA
+RB-E2F Targets	ARL6IP6	NA
+RB-E2F Targets	BRIP1	NA
+RB-E2F Targets	MDC1	NA
+RB-E2F Targets	CCNE2	NA
+RB-E2F Targets	UNG	NA
+RB-E2F Targets	BLM	NA
+RB-E2F Targets	GINS2	NA
+RB-E2F Targets	RAD51	NA
+RB-E2F Targets	DCLRE1A	NA
+RB-E2F Targets	UHRF1	NA
+RB-E2F Targets	KNTC1	NA
+RB-E2F Targets	RBL1	NA
+RB-E2F Targets	TIMELESS	NA
+RB-E2F Targets	CDC45	NA
+RB-E2F Targets	DEK	NA
+RB-E2F Targets	RIF1	NA
+RB-E2F Targets	CDC6	NA
+RB-E2F Targets	E2F1	NA
+RB-E2F Targets	CLSPN	NA
+RB-E2F Targets	CDK2	NA
+RB-E2F Targets	POLA2	NA
+RB-E2F Targets	CTDSPL2	NA
+RB-E2F Targets	DNMT1	NA
+RB-E2F Targets	MMS22L	NA
+RB-E2F Targets	NOLC1	NA
+RB-E2F Targets	SMC3	NA
+RB-E2F Targets	TRA2B	NA
+RB-E2F Targets	ASF1B	NA
+RB-E2F Targets	CDC7	NA
+RB-E2F Targets	EZH2	NA
+RB-E2F Targets	USP37	NA
+RB-E2F Targets	ZNF367	NA
+RB-E2F Targets	INTS7	NA
+RB-E2F Targets	MTHFD1	NA
+RB-E2F Targets	CENPH	NA
+RB-E2F Targets	CEP152	NA
+RB-E2F Targets	NCAPH2	NA
+RB-E2F Targets	NUP155	NA
+RB-E2F Targets	POLE	NA
+RB-E2F Targets	HAT1	NA
+RB-E2F Targets	RNF219	NA
+RB-E2F Targets	ATAD5	NA
+RB-E2F Targets	BAZ1B	NA
+RB-E2F Targets	RQCD1	NA
+RB-E2F Targets	KIAA0101	NA
+RB-E2F Targets	GMNN	NA
+RB-E2F Targets	RRM1	NA
+RB-E2F Targets	HNRNPDL	NA
+RB-E2F Targets	RFC1	NA
+RB-E2F Targets	NUP205	NA
+RB-E2F Targets	PRKDC	NA
+RB-E2F Targets	CASP2	NA
+RB-E2F Targets	CASP8AP2	NA
+RB-E2F Targets	HELLS	NA
+RB-E2F Targets	KPNB1	NA
+RB-E2F Targets	CEP57	NA
+RB-E2F Targets	MAZ	NA
+RB-E2F Targets	RANBP1	NA
+RB-E2F Targets	TMEM194A	NA
+RB-E2F Targets	TTI1	NA
+RB-E2F Targets	WEE1	NA
+RB-E2F Targets	HIST1H4A	NA
+RB-E2F Targets	NFIC	NA
+RB-E2F Targets	AK2	NA
+RB-E2F Targets	CCHCR1	NA
+RB-E2F Targets	NOP58	NA
+RB-E2F Targets	CDKN2D	NA
+RB-E2F Targets	H2AFV	NA
+RB-E2F Targets	HIST1H2AH	NA
+RB-E2F Targets	MSH5-SAPCD1	NA
+RB-E2F Targets	FANCL	NA
+RB-E2F Targets	RBBP4	NA
+RB-E2F Targets	RTTN	NA
+RB-E2F Targets	SRSF10	NA
+RB-E2F Targets	MYC	NA
+RB-E2F Targets	RIBC2	NA
+RB-E2F Targets	SIVA1	NA
+RB-E2F Targets	FAM76B	NA
+RB-E2F Targets	GPR180	NA
+RB-E2F Targets	LRR1	NA
+RB-E2F Targets	RAB8A	NA
+RB-E2F Targets	SLC3A2	NA
+RB-E2F Targets	ZMYND19	NA
+RB-E2F Targets	GPR137C	NA
+RB-E2F Targets	HNRNPA1	NA
+RB-E2F Targets	METTL2B	NA
+RB-E2F Targets	MIS12	NA
+RB-E2F Targets	NFATC2IP	NA
+RB-E2F Targets	PIM1	NA
+RB-E2F Targets	SNRPB	NA
+RB-E2F Targets	SRSF1	NA
+RB-E2F Targets	GABPB2	NA
+RB-E2F Targets	STIL	NA
+RB-E2F Targets	FBXO5	NA
+RB-E2F Targets	ANP32E	NA
+RB-E2F Targets	LMNB1	NA
+RB-E2F Targets	RFC3	NA
+RB-E2F Targets	TICRR	NA
+RB-E2F Targets	EXO1	NA
+RB-E2F Targets	WDHD1	NA
+RB-E2F Targets	E2F8	NA
+RB-E2F Targets	BRCA1	NA
+RB-E2F Targets	DSN1	NA
+RB-E2F Targets	NCAPG	NA
+RB-E2F Targets	RAD51AP1	NA
+RB-E2F Targets	FANCC	NA
+RB-E2F Targets	MCM5	NA
+RB-E2F Targets	SLBP	NA
+RB-E2F Targets	MCM10	NA
+RB-E2F Targets	DBF4	NA
+RB-E2F Targets	RMI1	NA
+RB-E2F Targets	USP1	NA
+RB-E2F Targets	BORA	NA
+RB-E2F Targets	DUT	NA
+RB-E2F Targets	RFC5	NA
+RB-E2F Targets	CENPN	NA
+RB-E2F Targets	POLA1	NA
+RB-E2F Targets	HMGB2	NA
+RB-E2F Targets	RRM2	NA
+RB-E2F Targets	CDK1	NA
+RB-E2F Targets	CDK5RAP2	NA
+RB-E2F Targets	ESCO2	NA
+RB-E2F Targets	EXOSC8	NA
+RB-E2F Targets	FANCI	NA
+RB-E2F Targets	ORC1	NA
+RB-E2F Targets	ZGRF1	NA
+RB-E2F Targets	ANKRD32	NA
+RB-E2F Targets	MYBL2	NA
+RB-E2F Targets	PAICS	NA
+RB-E2F Targets	STMN1	NA
+RB-E2F Targets	RFC2	NA
+RB-E2F Targets	CENPU	NA
+RB-E2F Targets	FEN1	NA
+RB-E2F Targets	DCLRE1B	NA
+RB-E2F Targets	TOPBP1	NA
+RB-E2F Targets	CENPM	NA
+RB-E2F Targets	EXOSC9	NA
+RB-E2F Targets	H1FX	NA
+RB-E2F Targets	DPYSL2	NA
+RB-E2F Targets	EXOSC2	NA
+RB-E2F Targets	GINS1	NA
+RB-E2F Targets	HNRNPD	NA
+RB-E2F Targets	SSRP1	NA
+RB-E2F Targets	PASK	NA
+RB-E2F Targets	CENPQ	NA
+RB-E2F Targets	CBX3	NA
+RB-E2F Targets	CEP295	NA
+RB-E2F Targets	PSMC3IP	NA
+RB-E2F Targets	XRCC2	NA
+RB-E2F Targets	DNAJC9	NA
+RB-E2F Targets	FAM161A	NA
+RB-E2F Targets	SNRPD1	NA
+RB-E2F Targets	TFAP4	NA
+RB-E2F Targets	CDKN2C	NA
+RB-E2F Targets	YEATS4	NA
+RB-E2F Targets	TFDP1	NA
+RB-E2F Targets	CBX5	NA
+RB-E2F Targets	HAUS2	NA
+RB-E2F Targets	PDS5A	NA
+RB-E2F Targets	PDS5B	NA
+RB-E2F Targets	PPAT	NA
+RB-E2F Targets	E2F2	NA
+RB-E2F Targets	NASP	NA
+RB-E2F Targets	CEP192	NA
+RB-E2F Targets	ITGB3BP	NA
+RB-E2F Targets	NUP62	NA
+RB-E2F Targets	CARHSP1	NA
+RB-E2F Targets	CMC2	NA
+RB-E2F Targets	HLTF	NA
+RB-E2F Targets	LIN52	NA
+RB-E2F Targets	ORC3	NA
+RB-E2F Targets	SLC25A40	NA
+RB-E2F Targets	RPA2	NA
+RB-E2F Targets	UBR7	NA
+RB-E2F Targets	C19orf48	NA
+RB-E2F Targets	CHRAC1	NA
+RB-E2F Targets	HNRNPA0	NA
+RB-E2F Targets	HNRNPA2B1	NA
+RB-E2F Targets	HNRNPR	NA
+RB-E2F Targets	ILF3	NA
+RB-E2F Targets	LRRCC1	NA
+RB-E2F Targets	MYO19	NA
+RB-E2F Targets	MZT1	NA
+RB-E2F Targets	PARP1	NA
+RB-E2F Targets	SENP1	NA
+RB-E2F Targets	SIN3A	NA
+RB-E2F Targets	SKA2	NA
+RB-E2F Targets	HIST1H3F	NA
+RB-E2F Targets	MEIS2	NA
+RB-E2F Targets	NUCKS1	NA
+RB-E2F Targets	SLC1A5	NA
+RB-E2F Targets	STAG1	NA
+RB-E2F Targets	DCAF16	NA
+RB-E2F Targets	EMP2	NA
+RB-E2F Targets	PHLPP1	NA
+RB-E2F Targets	RMI2	NA
+RB-E2F Targets	SRSF2	NA
+RB-E2F Targets	TYRO3	NA
+RB-E2F Targets	CREBZF	NA
+RB-E2F Targets	HIST1H2BH	NA
+RB-E2F Targets	HAUS5	NA
+RB-E2F Targets	LSM6	NA
+RB-E2F Targets	MRPL17	NA
+RB-E2F Targets	PIGW	NA
+RB-E2F Targets	PTGES3	NA
+RB-E2F Targets	SNRPA	NA
+RB-E2F Targets	TRIM37	NA
+RB-E2F Targets	WDYHV1	NA
+RB-E2F Targets	YARS	NA
+RB-E2F Targets	KLF11	NA
+RB-E2F Targets	FBXO4	NA
+RB-E2F Targets	GPD2	NA
+RB-E2F Targets	HIST1H4I	NA
+RB-E2F Targets	NCOA5	NA
+RB-E2F Targets	APITD1	NA
+RB-E2F Targets	ARRB2	NA
+RB-E2F Targets	CAD	NA
+RB-E2F Targets	FUS	NA
+RB-E2F Targets	HMGN2	NA
+RB-E2F Targets	HSPE1	NA
+RB-E2F Targets	LOXL3	NA
+RB-E2F Targets	RNPS1	NA
+RB-E2F Targets	HIST1H2BO	NA
+RB-E2F Targets	HNRNPA3	NA
+RB-E2F Targets	HSPD1	NA
+RB-E2F Targets	SUPT16H	NA
+RB-E2F Targets	CNTLN	NA
+RB-E2F Targets	DLEU1	NA
+RB-E2F Targets	FAM178A	NA
+RB-E2F Targets	FOXRED1	NA
+RB-E2F Targets	KIF2A	NA
+RB-E2F Targets	S100PBP	NA
+RB-E2F Targets	TMX1	NA
+RB-E2F Targets	TNPO3	NA
+RB-E2F Targets	WRN	NA
+RB-E2F Targets	HIST1H2AM	NA
+RB-E2F Targets	LARP7	NA
+RB-E2F Targets	TREX1	NA
+RB-E2F Targets	SLC25A36	NA
+RB-E2F Targets	PCNA	NA
+RB-E2F Targets	E2F7	NA
+RB-E2F Targets	BTG1	NA
+RB-E2F Targets	BUB1B	NA
+RB-E2F Targets	AURKA	NA
+RB-E2F Targets	NUF2	NA
+RB-E2F Targets	ANLN	NA
+RB-E2F Targets	KIF18A	NA
+RB-E2F Targets	CEP55	NA
+RB-E2F Targets	WHSC1	NA
+RB-E2F Targets	MAD2L1	NA
+RB-E2F Targets	TMPO	NA
+RB-E2F Targets	SMC4	NA
+RB-E2F Targets	NUSAP1	NA
+RB-E2F Targets	PLK4	NA
+RB-E2F Targets	KIF15	NA
+RB-E2F Targets	CDCA7L	NA
+RB-E2F Targets	NCAPD3	NA
+RB-E2F Targets	PHF19	NA
+RB-E2F Targets	NCAPG2	NA
+RB-E2F Targets	BARD1	NA
+RB-E2F Targets	CDT1	NA
+RB-E2F Targets	SKP2	NA
+RB-E2F Targets	DCK	NA
+RB-E2F Targets	ERLIN1	NA
+RB-E2F Targets	CHAF1B	NA
+RB-E2F Targets	DONSON	NA
+RB-E2F Targets	OIP5	NA
+RB-E2F Targets	FANCE	NA
+RB-E2F Targets	NUP50	NA
+RB-E2F Targets	POLE2	NA
+RB-E2F Targets	FANCD2	NA
+RB-E2F Targets	MND1	NA
+RB-E2F Targets	RNASEH2A	NA
+RB-E2F Targets	WDR62	NA
+RB-E2F Targets	POLD1	NA
+RB-E2F Targets	FAM111B	NA
+RB-E2F Targets	PAQR4	NA
+RB-E2F Targets	H2AFZ	NA
+RB-E2F Targets	LIN54	NA
+RB-E2F Targets	RFWD3	NA
+RB-E2F Targets	TOE1	NA
+RB-E2F Targets	FANCG	NA
+RB-E2F Targets	BRCA2	NA
+RB-E2F Targets	MCM8	NA
+RB-E2F Targets	C1orf112	NA
+RB-E2F Targets	CENPK	NA
+RB-E2F Targets	MCMBP	NA
+RB-E2F Targets	MTBP	NA
+RB-E2F Targets	NUP85	NA
+RB-E2F Targets	TK1	NA
+RB-E2F Targets	HIST1H4C	NA
+RB-E2F Targets	GLI3	NA
+RB-E2F Targets	DDX11	NA
+RB-E2F Targets	GMPS	NA
+RB-E2F Targets	LIN9	NA
+RB-E2F Targets	PPRC1	NA
+RB-E2F Targets	ABCE1	NA
+RB-E2F Targets	FAM111A	NA
+RB-E2F Targets	GART	NA
+RB-E2F Targets	KIF24	NA
+RB-E2F Targets	RBBP7	NA
+RB-E2F Targets	SMC1A	NA
+RB-E2F Targets	SRSF7	NA
+RB-E2F Targets	NUP98	NA
+RB-E2F Targets	RAD1	NA
+RB-E2F Targets	DNA2	NA
+RB-E2F Targets	FAF1	NA
+RB-E2F Targets	NOC3L	NA
+RB-E2F Targets	PBX3	NA
+RB-E2F Targets	PRIM2	NA
+RB-E2F Targets	C1orf174	NA
+RB-E2F Targets	CCT5	NA
+RB-E2F Targets	HAUS4	NA
+RB-E2F Targets	KDELC2	NA
+RB-E2F Targets	LCORL	NA
+RB-E2F Targets	TAF5	NA
+RB-E2F Targets	ATF7IP	NA
+RB-E2F Targets	MBOAT1	NA
+RB-E2F Targets	MTF2	NA
+RB-E2F Targets	UCK2	NA
+RB-E2F Targets	CEP78	NA
+RB-E2F Targets	COLGALT1	NA
+RB-E2F Targets	GNB4	NA
+RB-E2F Targets	HAUS1	NA
+RB-E2F Targets	HMGB1	NA
+RB-E2F Targets	LRRC8C	NA
+RB-E2F Targets	MAGOHB	NA
+RB-E2F Targets	NUDT21	NA
+RB-E2F Targets	PKP4	NA
+RB-E2F Targets	SMPD4	NA
+RB-E2F Targets	SP4	NA
+RB-E2F Targets	SUZ12	NA
+RB-E2F Targets	USP39	NA
+RB-E2F Targets	AMD1	NA
+RB-E2F Targets	GPRC5B	NA
+RB-E2F Targets	WHSC1L1	NA
+RB-E2F Targets	ZRANB3	NA
+RB-E2F Targets	BRIX1	NA
+RB-E2F Targets	CBX1	NA
+RB-E2F Targets	CDKAL1	NA
+RB-E2F Targets	CISD2	NA
+RB-E2F Targets	DHX15	NA
+RB-E2F Targets	HNRNPAB	NA
+RB-E2F Targets	HNRNPU	NA
+RB-E2F Targets	IQCC	NA
+RB-E2F Targets	NUP107	NA
+RB-E2F Targets	PHF13	NA
+RB-E2F Targets	QSER1	NA
+RB-E2F Targets	SFR1	NA
+RB-E2F Targets	SMAD2	NA
+RB-E2F Targets	UCHL5	NA
+RB-E2F Targets	IVNS1ABP	NA
+RB-E2F Targets	NPAT	NA
+RB-E2F Targets	RHEB	NA
+RB-E2F Targets	AHCTF1	NA
+RB-E2F Targets	ATF2	NA
+RB-E2F Targets	GTPBP2	NA
+RB-E2F Targets	ATAD3A	NA
+RB-E2F Targets	BCS1L	NA
+RB-E2F Targets	CCDC18	NA
+RB-E2F Targets	DDX21	NA
+RB-E2F Targets	DIAPH1	NA
+RB-E2F Targets	FKBPL	NA
+RB-E2F Targets	GATAD2A	NA
+RB-E2F Targets	GTPBP3	NA
+RB-E2F Targets	HEATR1	NA
+RB-E2F Targets	HMGXB4	NA
+RB-E2F Targets	IFT80	NA
+RB-E2F Targets	NUP188	NA
+RB-E2F Targets	POLD2	NA
+RB-E2F Targets	SPATA33	NA
+RB-E2F Targets	TLE1	NA
+RB-E2F Targets	SP1	NA
+RB-E2F Targets	ZBTB14	NA
+RB-E2F Targets	HIST1H4D	NA
+RB-E2F Targets	ASXL1	NA
+RB-E2F Targets	CTCF	NA
+RB-E2F Targets	DGCR8	NA
+RB-E2F Targets	GRPEL2	NA
+RB-E2F Targets	HIST1H2AK	NA
+RB-E2F Targets	MAP3K5	NA
+RB-E2F Targets	SF1	NA
+RB-E2F Targets	TMEM138	NA
+RB-E2F Targets	ACTL6A	NA
+RB-E2F Targets	AZIN1	NA
+RB-E2F Targets	BEND3	NA
+RB-E2F Targets	CAPRIN1	NA
+RB-E2F Targets	CCDC34	NA
+RB-E2F Targets	CHCHD3	NA
+RB-E2F Targets	CLIC4	NA
+RB-E2F Targets	DDX20	NA
+RB-E2F Targets	ELP5	NA
+RB-E2F Targets	GTDC1	NA
+RB-E2F Targets	HMBS	NA
+RB-E2F Targets	INO80	NA
+RB-E2F Targets	IPO9	NA
+RB-E2F Targets	KCMF1	NA
+RB-E2F Targets	MUTYH	NA
+RB-E2F Targets	NEDD4	NA
+RB-E2F Targets	PATL1	NA
+RB-E2F Targets	POT1	NA
+RB-E2F Targets	ROCK2	NA
+RB-E2F Targets	SLMO1	NA
+RB-E2F Targets	TCAF1	NA
+RB-E2F Targets	TCP1	NA
+RB-E2F Targets	TOR1AIP1	NA
+RB-E2F Targets	TSR1	NA
+RB-E2F Targets	UBE2R2	NA
+RB-E2F Targets	XRCC1	NA
+RB-E2F Targets	BUB3	NA
+RB-E2F Targets	AC004381.6	NA
+RB-E2F Targets	MYB	NA
+RB-E2F Targets	NAV2	NA
+RB-E2F Targets	POU2F1	NA
+RB-E2F Targets	RNF4	NA
+RB-E2F Targets	ALG10	NA
+RB-E2F Targets	DLG1	NA
+RB-E2F Targets	EBAG9	NA
+RB-E2F Targets	KANK2	NA
+RB-E2F Targets	LRIG3	NA
+RB-E2F Targets	MRE11A	NA
+RB-E2F Targets	OSBPL10	NA
+RB-E2F Targets	SPAG9	NA
+RB-E2F Targets	SSH2	NA
+RB-E2F Targets	ACP1	NA
+RB-E2F Targets	AFMID	NA
+RB-E2F Targets	ANO6	NA
+RB-E2F Targets	ATAD3B	NA
+RB-E2F Targets	CLUH	NA
+RB-E2F Targets	CNOT1	NA
+RB-E2F Targets	CNP	NA
+RB-E2F Targets	DCPS	NA
+RB-E2F Targets	DDX46	NA
+RB-E2F Targets	DDX55	NA
+RB-E2F Targets	GGCT	NA
+RB-E2F Targets	HACD2	NA
+RB-E2F Targets	HSP90AA1	NA
+RB-E2F Targets	IGF2BP1	NA
+RB-E2F Targets	KAT7	NA
+RB-E2F Targets	KMT2A	NA
+RB-E2F Targets	KNOP1	NA
+RB-E2F Targets	LSM3	NA
+RB-E2F Targets	LSM4	NA
+RB-E2F Targets	MSH3	NA
+RB-E2F Targets	NF2	NA
+RB-E2F Targets	NUPL1	NA
+RB-E2F Targets	PLSCR1	NA
+RB-E2F Targets	R3HDM1	NA
+RB-E2F Targets	RMND1	NA
+RB-E2F Targets	SAP130	NA
+RB-E2F Targets	SF3B3	NA
+RB-E2F Targets	SLC20A1	NA
+RB-E2F Targets	SMAD1	NA
+RB-E2F Targets	SMARCA5	NA
+RB-E2F Targets	SMC5	NA
+RB-E2F Targets	SPRED1	NA
+RB-E2F Targets	TMEM18	NA
+RB-E2F Targets	TPR	NA
+RB-E2F Targets	TUBG1	NA
+RB-E2F Targets	RSBN1	NA
+RB-E2F Targets	JADE2	NA
+RB-E2F Targets	PCF11	NA
+RB-E2F Targets	GK	NA
+RB-E2F Targets	MAT2A	NA
+RB-E2F Targets	TTLL7	NA
+RB-E2F Targets	DCLRE1C	NA
+RB-E2F Targets	HIST1H2AG	NA
+RB-E2F Targets	PNN	NA
+RB-E2F Targets	SSBP2	NA
+RB-E2F Targets	UBTF	NA
+RB-E2F Targets	INSR	NA
+RB-E2F Targets	HSPA8	NA
+RB-E2F Targets	JUND	NA
+RB-E2F Targets	OARD1	NA
+RB-E2F Targets	PPP1CB	NA
+RB-E2F Targets	UBE2D3	NA
+RB-E2F Targets	RPS6KA5	NA
+RB-E2F Targets	KLF5	NA
+RB-E2F Targets	TMEM243	NA
+RB-E2F Targets	FOSL2	NA
+RB-E2F Targets	IGF1R	NA
+RB-E2F Targets	PMAIP1	NA
+RB-E2F Targets	ZNFX1	NA
+LIN37 dependent P53 Targets	CENPI	NA
+LIN37 dependent P53 Targets	TROAP	NA
+LIN37 dependent P53 Targets	KIF18B	NA
+LIN37 dependent P53 Targets	KIF20A	NA
+LIN37 dependent P53 Targets	ESCO2	NA
+LIN37 dependent P53 Targets	PBK	NA
+LIN37 dependent P53 Targets	GTSE1	NA
+LIN37 dependent P53 Targets	CDC25C	NA
+LIN37 dependent P53 Targets	DLGAP5	NA
+LIN37 dependent P53 Targets	SHCBP1	NA
+LIN37 dependent P53 Targets	KIF2C	NA
+LIN37 dependent P53 Targets	ASPM	NA
+LIN37 dependent P53 Targets	RAD51AP1	NA
+LIN37 dependent P53 Targets	NEIL3	NA
+LIN37 dependent P53 Targets	E2F1	NA
+LIN37 dependent P53 Targets	SPC25	NA
+LIN37 dependent P53 Targets	CKAP2L	NA
+LIN37 dependent P53 Targets	PIF1	NA
+LIN37 dependent P53 Targets	ERCC6L	NA
+LIN37 dependent P53 Targets	CCNB2	NA
+LIN37 dependent P53 Targets	CDCA5	NA
+LIN37 dependent P53 Targets	SPC24	NA
+LIN37 dependent P53 Targets	ASF1B	NA
+LIN37 dependent P53 Targets	SGO1	NA
+LIN37 dependent P53 Targets	HJURP	NA
+LIN37 dependent P53 Targets	BUB1	NA
+LIN37 dependent P53 Targets	TCF19	NA
+LIN37 dependent P53 Targets	SKA1	NA
+LIN37 dependent P53 Targets	DEPDC1	NA
+LIN37 dependent P53 Targets	CCNA2	NA
+LIN37 dependent P53 Targets	KIFC1	NA
+LIN37 dependent P53 Targets	ANLN	NA
+LIN37 dependent P53 Targets	FOXM1	NA
+LIN37 dependent P53 Targets	HMMR	NA
+LIN37 dependent P53 Targets	EME1	NA
+LIN37 dependent P53 Targets	AURKB	NA
+LIN37 dependent P53 Targets	PIMREG	NA
+LIN37 dependent P53 Targets	BIRC5	NA
+LIN37 dependent P53 Targets	CIT	NA
+LIN37 dependent P53 Targets	KIF4B	NA
+LIN37 dependent P53 Targets	CDK1	NA
+LIN37 dependent P53 Targets	HASPIN	NA
+LIN37 dependent P53 Targets	PRR11	NA
+LIN37 dependent P53 Targets	POLQ	NA
+LIN37 dependent P53 Targets	NDC80	NA
+LIN37 dependent P53 Targets	SKA3	NA
+LIN37 dependent P53 Targets	ZNF367	NA
+LIN37 dependent P53 Targets	KIF4A	NA
+LIN37 dependent P53 Targets	DTL	NA
+LIN37 dependent P53 Targets	RAD51	NA
+LIN37 dependent P53 Targets	CDCA8	NA
+LIN37 dependent P53 Targets	NCAPH	NA
+LIN37 dependent P53 Targets	CDC20	NA
+LIN37 dependent P53 Targets	MCM10	NA
+LIN37 dependent P53 Targets	UBE2C	NA
+LIN37 dependent P53 Targets	MKI67	NA
+LIN37 dependent P53 Targets	E2F2	NA
+LIN37 dependent P53 Targets	ORC6	NA
+LIN37 dependent P53 Targets	CDC45	NA
+LIN37 dependent P53 Targets	CEP55	NA
+LIN37 dependent P53 Targets	KIF14	NA
+LIN37 dependent P53 Targets	ATAD5	NA
+LIN37 dependent P53 Targets	DDIAS	NA
+LIN37 dependent P53 Targets	TTK	NA
+LIN37 dependent P53 Targets	IQGAP3	NA
+LIN37 dependent P53 Targets	TK1	NA
+LIN37 dependent P53 Targets	NEK2	NA
+LIN37 dependent P53 Targets	ZGRF1	NA
+LIN37 dependent P53 Targets	KNL1	NA
+LIN37 dependent P53 Targets	PKMYT1	NA
+LIN37 dependent P53 Targets	TICRR	NA
+LIN37 dependent P53 Targets	MYBL1	NA
+LIN37 dependent P53 Targets	SGO2	NA
+LIN37 dependent P53 Targets	CCNB1	NA
+LIN37 dependent P53 Targets	CENPF	NA
+LIN37 dependent P53 Targets	BUB1B	NA
+LIN37 dependent P53 Targets	BRIP1	NA
+LIN37 dependent P53 Targets	BLM	NA
+LIN37 dependent P53 Targets	ZWINT	NA
+LIN37 dependent P53 Targets	MND1	NA
+LIN37 dependent P53 Targets	NUF2	NA
+LIN37 dependent P53 Targets	CDCA2	NA
+LIN37 dependent P53 Targets	FAM72B	NA
+LIN37 dependent P53 Targets	DSCC1	NA
+LIN37 dependent P53 Targets	DIAPH3	NA
+LIN37 dependent P53 Targets	CENPK	NA
+LIN37 dependent P53 Targets	CENPW	NA
+LIN37 dependent P53 Targets	PRC1	NA
+LIN37 dependent P53 Targets	STIL	NA
+LIN37 dependent P53 Targets	CENPM	NA
+LIN37 dependent P53 Targets	FAM72D	NA
+LIN37 dependent P53 Targets	ARHGAP11A	NA
+LIN37 dependent P53 Targets	EXO1	NA
+LIN37 dependent P53 Targets	KIF11	NA
+LIN37 dependent P53 Targets	RAD54L	NA
+LIN37 dependent P53 Targets	FAM72A	NA
+LIN37 dependent P53 Targets	CDC6	NA
+LIN37 dependent P53 Targets	GINS2	NA
+LIN37 dependent P53 Targets	GINS1	NA
+LIN37 dependent P53 Targets	TRAIP	NA
+LIN37 dependent P53 Targets	TOP2A	NA
+LIN37 dependent P53 Targets	PLK4	NA
+LIN37 dependent P53 Targets	FANCI	NA
+LIN37 dependent P53 Targets	CCDC150	NA
+LIN37 dependent P53 Targets	MCM5	NA
+LIN37 dependent P53 Targets	XRCC2	NA
+LIN37 dependent P53 Targets	AURKA	NA
+LIN37 dependent P53 Targets	ARHGAP11B	NA
+LIN37 dependent P53 Targets	CENPU	NA
+LIN37 dependent P53 Targets	NCAPG	NA
+LIN37 dependent P53 Targets	TACC3	NA
+LIN37 dependent P53 Targets	C5orf34	NA
+LIN37 dependent P53 Targets	KIF20B	NA
+LIN37 dependent P53 Targets	MAD2L1	NA
+LIN37 dependent P53 Targets	FANCD2	NA
+LIN37 dependent P53 Targets	KIF15	NA
+LIN37 dependent P53 Targets	GINS4	NA
+LIN37 dependent P53 Targets	DBF4B	NA
+LIN37 dependent P53 Targets	WDR62	NA
+LIN37 dependent P53 Targets	MYBL2	NA
+LIN37 dependent P53 Targets	BRCA1	NA
+LIN37 dependent P53 Targets	KIF23	NA
+LIN37 dependent P53 Targets	NUSAP1	NA
+LIN37 dependent P53 Targets	DEPDC1B	NA
+LIN37 dependent P53 Targets	NCAPG2	NA
+LIN37 dependent P53 Targets	OIP5	NA
+LIN37 dependent P53 Targets	KIF24	NA
+LIN37 dependent P53 Targets	KIF18A	NA
+LIN37 dependent P53 Targets	PLK1	NA
+LIN37 dependent P53 Targets	CCDC18	NA
+LIN37 dependent P53 Targets	BORA	NA
+LIN37 dependent P53 Targets	CDCA3	NA
+LIN37 dependent P53 Targets	ESPL1	NA
+LIN37 dependent P53 Targets	RFC3	NA
+LIN37 dependent P53 Targets	SPAG5	NA
+LIN37 dependent P53 Targets	POC1A	NA
+LIN37 dependent P53 Targets	TPX2	NA
+LIN37 dependent P53 Targets	FEN1	NA
+LIN37 dependent P53 Targets	CENPE	NA
+LIN37 dependent P53 Targets	NUDT1	NA
+LIN37 dependent P53 Targets	C18orf54	NA
+LIN37 dependent P53 Targets	NMU	NA
+LIN37 dependent P53 Targets	MCM8	NA
+LIN37 dependent P53 Targets	SUV39H1	NA
+LIN37 dependent P53 Targets	MTBP	NA
+LIN37 dependent P53 Targets	CHAF1A	NA
+LIN37 dependent P53 Targets	ATAD2	NA
+LIN37 dependent P53 Targets	CHTF18	NA
+LIN37 dependent P53 Targets	FANCB	NA
+LIN37 dependent P53 Targets	MELK	NA
+LIN37 dependent P53 Targets	ARHGEF39	NA
+LIN37 dependent P53 Targets	SMC4	NA
+LIN37 dependent P53 Targets	AUNIP	NA
+LIN37 dependent P53 Targets	CENPA	NA
+LIN37 dependent P53 Targets	RACGAP1	NA
+LIN37 dependent P53 Targets	ORC1	NA
+LIN37 dependent P53 Targets	CENPJ	NA
+LIN37 dependent P53 Targets	RAD54B	NA
+LIN37 dependent P53 Targets	RECQL4	NA
+LIN37 dependent P53 Targets	XRCC3	NA
+LIN37 dependent P53 Targets	PARPBP	NA
+LIN37 dependent P53 Targets	GEN1	NA
+LIN37 dependent P53 Targets	KIAA1524	NA
+LIN37 dependent P53 Targets	VRK1	NA
+LIN37 dependent P53 Targets	E2F8	NA
+LIN37 dependent P53 Targets	C1orf112	NA
+LIN37 dependent P53 Targets	DSN1	NA
+LIN37 dependent P53 Targets	SMC2	NA
+LIN37 dependent P53 Targets	ITGB3BP	NA
+LIN37 dependent P53 Targets	CENPQ	NA
+LIN37 dependent P53 Targets	FANCA	NA
+LIN37 dependent P53 Targets	MTFR2	NA
+LIN37 dependent P53 Targets	C16orf59	NA
+LIN37 dependent P53 Targets	ZNF695	NA
+LIN37 dependent P53 Targets	RFC5	NA
+LIN37 dependent P53 Targets	FAM83D	NA
+LIN37 dependent P53 Targets	CEP152	NA
+LIN37 dependent P53 Targets	PSMC3IP	NA
+LIN37 dependent P53 Targets	MCM2	NA
+LIN37 dependent P53 Targets	POLA2	NA
+LIN37 dependent P53 Targets	RNASEH2A	NA
+LIN37 dependent P53 Targets	KIF22	NA
+LIN37 dependent P53 Targets	CDT1	NA
+LIN37 dependent P53 Targets	CENPO	NA
+LIN37 dependent P53 Targets	MIS18A	NA
+LIN37 dependent P53 Targets	LIN9	NA
+LIN37 dependent P53 Targets	ECT2	NA
+LIN37 dependent P53 Targets	TONSL	NA
+LIN37 dependent P53 Targets	PRIM2	NA
+LIN37 dependent P53 Targets	DDX11	NA
+LIN37 dependent P53 Targets	ZWILCH	NA
+LIN37 dependent P53 Targets	SPDL1	NA
+LIN37 dependent P53 Targets	CDC25A	NA
+LIN37 dependent P53 Targets	C4orf46	NA
+LIN37 dependent P53 Targets	ZNF107	NA
+LIN37 dependent P53 Targets	WEE1	NA
+LIN37 dependent P53 Targets	FAAP24	NA
+LIN37 dependent P53 Targets	H2AFZ	NA
+LIN37 dependent P53 Targets	GGH	NA
+LIN37 dependent P53 Targets	GMNN	NA
+LIN37 dependent P53 Targets	HMGB2	NA
+LIN37 dependent P53 Targets	ZNF92	NA
+LIN37 dependent P53 Targets	CENPL	NA
+LIN37 dependent P53 Targets	KNSTRN	NA
+LIN37 dependent P53 Targets	MCM4	NA
+LIN37 dependent P53 Targets	ZNF714	NA
+LIN37 dependent P53 Targets	TRIP13	NA
+LIN37 dependent P53 Targets	SASS6	NA
+LIN37 dependent P53 Targets	CENPN	NA
+LIN37 dependent P53 Targets	CKS2	NA
+LIN37 dependent P53 Targets	RRM1	NA
+LIN37 dependent P53 Targets	FANCG	NA
+LIN37 dependent P53 Targets	MIS18BP1	NA
+LIN37 dependent P53 Targets	RAD18	NA
+LIN37 dependent P53 Targets	UBE2T	NA
+LIN37 dependent P53 Targets	GPSM2	NA
+LIN37 dependent P53 Targets	NEMP1	NA
+LIN37 dependent P53 Targets	KNTC1	NA
+LIN37 dependent P53 Targets	RHNO1	NA
+LIN37 dependent P53 Targets	INCENP	NA
+LIN37 dependent P53 Targets	MASTL	NA
+LIN37 dependent P53 Targets	TIMELESS	NA
+LIN37 dependent P53 Targets	CENPH	NA
+LIN37 dependent P53 Targets	PPIH	NA
+LIN37 dependent P53 Targets	NCAPD3	NA
+LIN37 dependent P53 Targets	C14orf80	NA
+LIN37 dependent P53 Targets	RFC4	NA
+LIN37 dependent P53 Targets	DCLRE1B	NA
+LIN37 dependent P53 Targets	DNA2	NA
+LIN37 dependent P53 Targets	NUP107	NA
+LIN37 dependent P53 Targets	DTYMK	NA
+LIN37 dependent P53 Targets	POLE	NA
+LIN37 dependent P53 Targets	CCDC77	NA
+LIN37 dependent P53 Targets	MCM3	NA
+LIN37 dependent P53 Targets	DCK	NA
+LIN37 dependent P53 Targets	CHEK1	NA
+LIN37 dependent P53 Targets	SUV39H2	NA
+LIN37 dependent P53 Targets	SCLT1	NA
+LIN37 dependent P53 Targets	PSRC1	NA
+LIN37 dependent P53 Targets	CEP78	NA
+LIN37 dependent P53 Targets	CEP135	NA
+LIN37 dependent P53 Targets	UNG	NA
+LIN37 dependent P53 Targets	G2E3	NA
+LIN37 dependent P53 Targets	CEP72	NA
+LIN37 dependent P53 Targets	GSTCD	NA
+LIN37 dependent P53 Targets	TUBD1	NA
+LIN37 dependent P53 Targets	CEP295	NA
+LIN37 dependent P53 Targets	LRR1	NA
+LIN37 dependent P53 Targets	RTTN	NA
+LIN37 dependent P53 Targets	POLD1	NA
+LIN37 dependent P53 Targets	HMGB1	NA
+LIN37 dependent P53 Targets	XRCC1	NA
+LIN37 dependent P53 Targets	ACD	NA
+LIN37 dependent P53 Targets	NSD2	NA
+LIN37 dependent P53 Targets	TOPBP1	NA
+LIN37 dependent P53 Targets	LSM5	NA
+LIN37 dependent P53 Targets	POLA1	NA
+LIN37 dependent P53 Targets	NCAPD2	NA
+LIN37 dependent P53 Targets	ORC3	NA
+LIN37 dependent P53 Targets	PIGK	NA
+LIN37 dependent P53 Targets	KCNK5	NA
+LIN37 dependent P53 Targets	INIP	NA
+LIN37 dependent P53 Targets	SLC25A10	NA
+LIN37 dependent P53 Targets	WBP11	NA
+LIN37 dependent P53 Targets	FOXRED1	NA
+LIN37 dependent P53 Targets	NUP93	NA
+LIN37 dependent P53 Targets	H2AFX	NA
+LIN37 dependent P53 Targets	NIF3L1	NA
+LIN37 independent P53 Targets	CCNE2	NA
+LIN37 independent P53 Targets	RIBC2	NA
+LIN37 independent P53 Targets	PEG10	NA
+LIN37 independent P53 Targets	PRIM1	NA
+LIN37 independent P53 Targets	CDKN2C	NA
+LIN37 independent P53 Targets	NRM	NA
+LIN37 independent P53 Targets	SESTD1	NA
+LIN37 independent P53 Targets	SLC1A4	NA
+LIN37 independent P53 Targets	HIRIP3	NA
+LIN37 independent P53 Targets	LRRCC1	NA
+LIN37 independent P53 Targets	USP1	NA
+LIN37 independent P53 Targets	RMI1	NA
+LIN37 independent P53 Targets	MDC1	NA
+LIN37 independent P53 Targets	ARHGAP33	NA
+LIN37 independent P53 Targets	LRRC45	NA
+LIN37 independent P53 Targets	EZH2	NA
+LIN37 independent P53 Targets	ETV1	NA
+LIN37 independent P53 Targets	IMPA2	NA
+LIN37 independent P53 Targets	PSIP1	NA
+LIN37 independent P53 Targets	SLC7A11	NA
+LIN37 independent P53 Targets	MCUB	NA
+LIN37 independent P53 Targets	CBX5	NA
+LIN37 independent P53 Targets	CENPV	NA
+LIN37 independent P53 Targets	CNTRL	NA
+LIN37 independent P53 Targets	CBX2	NA
+LIN37 independent P53 Targets	PRKAR2B	NA
+LIN37 independent P53 Targets	TUBA1C	NA
+LIN37 independent P53 Targets	JADE1	NA
+LIN37 independent P53 Targets	H2AFV	NA
+LIN37 independent P53 Targets	UBR7	NA
+LIN37 independent P53 Targets	DCLRE1A	NA
+LIN37 independent P53 Targets	INSIG1	NA
+LIN37 independent P53 Targets	DNMT1	NA
+LIN37 independent P53 Targets	PRKACB	NA
+LIN37 independent P53 Targets	FAM161A	NA
+LIN37 independent P53 Targets	LRRC20	NA
+LIN37 independent P53 Targets	MBOAT1	NA
+LIN37 independent P53 Targets	ALMS1	NA
+LIN37 independent P53 Targets	SFR1	NA
+LIN37 independent P53 Targets	JDP2	NA
+LIN37 independent P53 Targets	MFSD13A	NA
+LIN37 independent P53 Targets	CASP8AP2	NA
+LIN37 independent P53 Targets	CBR3	NA
+LIN37 independent P53 Targets	TUBB	NA
+LIN37 independent P53 Targets	FKBP5	NA
+LIN37 independent P53 Targets	CHRNA5	NA
+LIN37 independent P53 Targets	PCK2	NA
+LIN37 independent P53 Targets	SMC3	NA
+LIN37 independent P53 Targets	SSX2IP	NA
+LIN37 independent P53 Targets	RANBP1	NA
+LIN37 independent P53 Targets	SLC25A40	NA
+LIN37 independent P53 Targets	FANCL	NA
+LIN37 independent P53 Targets	MCMBP	NA
+LIN37 independent P53 Targets	CARHSP1	NA
+LIN37 independent P53 Targets	IQCC	NA
+LIN37 independent P53 Targets	LBR	NA
+LIN37 independent P53 Targets	PMP22	NA
+LIN37 independent P53 Targets	GPX8	NA
+LIN37 independent P53 Targets	USP37	NA
+LIN37 independent P53 Targets	KANK2	NA
+LIN37 independent P53 Targets	PRKD3	NA
+LIN37 independent P53 Targets	C5orf30	NA
+LIN37 independent P53 Targets	TRIM59	NA
+LIN37 independent P53 Targets	PHTF2	NA
+LIN37 independent P53 Targets	ANP32B	NA
+LIN37 independent P53 Targets	TUBGCP3	NA
+LIN37 independent P53 Targets	RHOBTB3	NA
+LIN37 independent P53 Targets	JPH1	NA
+LIN37 independent P53 Targets	TMEM106C	NA
+LIN37 independent P53 Targets	CTDSPL2	NA
+LIN37 independent P53 Targets	HSD17B11	NA
+LIN37 independent P53 Targets	CACYBP	NA
+LIN37 independent P53 Targets	UACA	NA
+LIN37 independent P53 Targets	CTSC	NA
+LIN37 independent P53 Targets	DPYSL3	NA
+LIN37 independent P53 Targets	KIF26A	NA
+LIN37 independent P53 Targets	NUP155	NA
+LIN37 independent P53 Targets	STAMBPL1	NA
+LIN37 independent P53 Targets	HSP90AA1	NA
+LIN37 independent P53 Targets	KLHL23	NA
+LIN37 independent P53 Targets	RBBP7	NA
+LIN37 independent P53 Targets	ACSL3	NA
+LIN37 independent P53 Targets	GMPS	NA
+LIN37 independent P53 Targets	NEDD4	NA
+LIN37 independent P53 Targets	RAB27A	NA
+LIN37 independent P53 Targets	SLC2A4RG	NA
+LIN37 independent P53 Targets	PDS5B	NA
+LIN37 independent P53 Targets	IFT122	NA
+LIN37 independent P53 Targets	MAGI3	NA
+LIN37 independent P53 Targets	SCD	NA
+LIN37 independent P53 Targets	HNRNPA2B1	NA
+LIN37 independent P53 Targets	RNF144A	NA
+LIN37 independent P53 Targets	ZBTB2	NA
+LIN37 independent P53 Targets	OSBPL6	NA
+LIN37 independent P53 Targets	ABCB10	NA
+LIN37 independent P53 Targets	ARNTL2	NA
+LIN37 independent P53 Targets	SSRP1	NA
+LIN37 independent P53 Targets	NFIB	NA
+LIN37 independent P53 Targets	OXCT1	NA
+LIN37 independent P53 Targets	UGT8	NA
+LIN37 independent P53 Targets	AARS	NA
+LIN37 independent P53 Targets	TIFA	NA
+LIN37 independent P53 Targets	ETS2	NA
+LIN37 independent P53 Targets	PHLPP1	NA
+LIN37 independent P53 Targets	MTERF3	NA
+LIN37 independent P53 Targets	HPRT1	NA
+LIN37 independent P53 Targets	TYRO3	NA
+LIN37 independent P53 Targets	SLF2	NA
+LIN37 independent P53 Targets	CBX3	NA
+LIN37 independent P53 Targets	SENP1	NA
+LIN37 independent P53 Targets	GPRC5B	NA
+LIN37 independent P53 Targets	GJC1	NA
+LIN37 independent P53 Targets	MANEA	NA
+LIN37 independent P53 Targets	SPATA33	NA
+LIN37 independent P53 Targets	RFC1	NA
+LIN37 independent P53 Targets	SRSF2	NA
+LIN37 independent P53 Targets	H1FX	NA
+LIN37 independent P53 Targets	LRRC8C	NA
+LIN37 independent P53 Targets	SCMH1	NA
+LIN37 independent P53 Targets	HACD2	NA
+LIN37 independent P53 Targets	SLC44A1	NA
+LIN37 independent P53 Targets	SLBP	NA
+LIN37 independent P53 Targets	HMGCS1	NA
+LIN37 independent P53 Targets	TSEN15	NA
+LIN37 independent P53 Targets	SH3PXD2B	NA
+LIN37 independent P53 Targets	PAICS	NA
+LIN37 independent P53 Targets	ASRGL1	NA
+LIN37 independent P53 Targets	HAUS2	NA
+LIN37 independent P53 Targets	NEK3	NA
+LIN37 independent P53 Targets	FABP5	NA
+LIN37 independent P53 Targets	BRI3BP	NA
+LIN37 independent P53 Targets	ATP2B1	NA
+LIN37 independent P53 Targets	SLC43A1	NA
+LIN37 independent P53 Targets	HNRNPD	NA
+LIN37 independent P53 Targets	NUCKS1	NA
+LIN37 independent P53 Targets	FKBPL	NA
+LIN37 independent P53 Targets	STAG1	NA
+LIN37 independent P53 Targets	SRSF7	NA
+LIN37 independent P53 Targets	ABHD2	NA
+LIN37 independent P53 Targets	TCAF1	NA
+LIN37 independent P53 Targets	NPAT	NA
+LIN37 independent P53 Targets	PSMG1	NA
+LIN37 independent P53 Targets	S100PBP	NA
+LIN37 independent P53 Targets	CLN6	NA
+LIN37 independent P53 Targets	RNF138	NA
+LIN37 independent P53 Targets	STX2	NA
+LIN37 independent P53 Targets	FBXO17	NA
+LIN37 independent P53 Targets	RIF1	NA
+LIN37 independent P53 Targets	TRA2B	NA
+LIN37 independent P53 Targets	SLC4A7	NA
+LIN37 independent P53 Targets	IPO9	NA
+LIN37 independent P53 Targets	SMCHD1	NA
+LIN37 independent P53 Targets	NBN	NA
+LIN37 independent P53 Targets	CNOT9	NA
+LIN37 independent P53 Targets	ACTL6A	NA
+LIN37 independent P53 Targets	TFDP1	NA
+LIN37 independent P53 Targets	INTS7	NA
+LIN37 independent P53 Targets	CENPX	NA
+LIN37 independent P53 Targets	RAPH1	NA
+LIN37 independent P53 Targets	TTC26	NA
+LIN37 independent P53 Targets	MAGOHB	NA
+LIN37 independent P53 Targets	MANEAL	NA
+LIN37 independent P53 Targets	NUP54	NA
+LIN37 independent P53 Targets	BAZ1B	NA
+LIN37 independent P53 Targets	PHLPP2	NA
+LIN37 independent P53 Targets	SRSF3	NA
+LIN37 independent P53 Targets	TOP3A	NA
+LIN37 independent P53 Targets	CHRAC1	NA
+LIN37 independent P53 Targets	NUDT21	NA
+LIN37 independent P53 Targets	MGST1	NA
+LIN37 independent P53 Targets	ROCK2	NA
+LIN37 independent P53 Targets	ZNF184	NA
+LIN37 independent P53 Targets	DNAJC1	NA
+LIN37 independent P53 Targets	TRIB3	NA
+LIN37 independent P53 Targets	SNRPB	NA
+LIN37 independent P53 Targets	FZD7	NA
+LIN37 independent P53 Targets	HLTF	NA
+LIN37 independent P53 Targets	RALGPS2	NA
+LIN37 independent P53 Targets	ENOSF1	NA
+LIN37 independent P53 Targets	SRSF10	NA
+LIN37 independent P53 Targets	PLP2	NA
+LIN37 independent P53 Targets	KPNB1	NA
+LIN37 independent P53 Targets	MAZ	NA
+LIN37 independent P53 Targets	ZBTB14	NA
+LIN37 independent P53 Targets	PTGES3	NA
+LIN37 independent P53 Targets	TMEM18	NA
+LIN37 independent P53 Targets	GRK6	NA
+LIN37 independent P53 Targets	EXPH5	NA
+LIN37 independent P53 Targets	SNRPD1	NA
+LIN37 independent P53 Targets	SLC1A5	NA
+LIN37 independent P53 Targets	CDC27	NA
+LIN37 independent P53 Targets	KCTD3	NA
+LIN37 independent P53 Targets	TCF7L1	NA
+LIN37 independent P53 Targets	SLC7A1	NA
+LIN37 independent P53 Targets	XYLB	NA
+LIN37 independent P53 Targets	TMCO3	NA
+LIN37 independent P53 Targets	FAM20C	NA
+LIN37 independent P53 Targets	HNRNPAB	NA
+LIN37 independent P53 Targets	UTP20	NA
+LIN37 independent P53 Targets	POU2F1	NA
+LIN37 independent P53 Targets	PHF13	NA
+LIN37 independent P53 Targets	HSPD1	NA
+LIN37 independent P53 Targets	DCPS	NA
+LIN37 independent P53 Targets	FAM57A	NA
+LIN37 independent P53 Targets	CAND1	NA
+LIN37 independent P53 Targets	DIS3L	NA
+LIN37 independent P53 Targets	CBFB	NA
+LIN37 independent P53 Targets	THNSL1	NA
+LIN37 independent P53 Targets	CEBPG	NA
+LIN37 independent P53 Targets	CLIC4	NA
+LIN37 independent P53 Targets	TRAF2	NA
+LIN37 independent P53 Targets	QSER1	NA
+LIN37 independent P53 Targets	SET	NA
+LIN37 independent P53 Targets	PTBP1	NA
+LIN37 independent P53 Targets	DLG3	NA
+LIN37 independent P53 Targets	CYP51A1	NA
+LIN37 independent P53 Targets	SLC20A1	NA
+LIN37 independent P53 Targets	BEND3	NA
+LIN37 independent P53 Targets	TBL1X	NA
+LIN37 independent P53 Targets	SNRNP40	NA
+LIN37 independent P53 Targets	SHMT2	NA
+LIN37 independent P53 Targets	STAG2	NA
+LIN37 independent P53 Targets	PRKDC	NA
+LIN37 independent P53 Targets	FERMT2	NA
+LIN37 independent P53 Targets	SMC5	NA
+LIN37 independent P53 Targets	HNRNPR	NA
+LIN37 independent P53 Targets	NUP188	NA
+LIN37 independent P53 Targets	SMPD4	NA
+LIN37 independent P53 Targets	YWHAH	NA
+LIN37 independent P53 Targets	NRF1	NA
+LIN37 independent P53 Targets	COLGALT1	NA
+LIN37 independent P53 Targets	SYNCRIP	NA
+LIN37 independent P53 Targets	SLC38A1	NA
+LIN37 independent P53 Targets	EXOC6	NA
+LIN37 independent P53 Targets	EML4	NA
+LIN37 independent P53 Targets	BCLAF1	NA
+LIN37 independent P53 Targets	POT1	NA
+LIN37 independent P53 Targets	HNRNPM	NA
+LIN37 independent P53 Targets	RAI14	NA
+LIN37 independent P53 Targets	ICMT	NA
+LIN37 independent P53 Targets	SUPT16H	NA
+LIN37 independent P53 Targets	TUBGCP4	NA
+LIN37 independent P53 Targets	PLEK2	NA
+LIN37 independent P53 Targets	HNRNPU	NA
+LIN37 independent P53 Targets	TMEM38B	NA
+LIN37 independent P53 Targets	ERLIN1	NA
+LIN37 independent P53 Targets	PDS5A	NA
+LIN37 independent P53 Targets	CKAP5	NA
+LIN37 independent P53 Targets	SFPQ	NA
+LIN37 independent P53 Targets	FUS	NA
+LIN37 independent P53 Targets	PAXX	NA
+LIN37 independent P53 Targets	HSPE1	NA
+LIN37 independent P53 Targets	MTMR2	NA
+LIN37 independent P53 Targets	RPS6KA3	NA
+LIN37 independent P53 Targets	FARSB	NA
+LIN37 independent P53 Targets	NUP62	NA
+LIN37 independent P53 Targets	NAA15	NA
+LIN37 independent P53 Targets	SRSF1	NA
+LIN37 independent P53 Targets	WDYHV1	NA
+LIN37 independent P53 Targets	BDH1	NA
+LIN37 independent P53 Targets	GPR180	NA
+LIN37 independent P53 Targets	EXOSC2	NA
+LIN37 independent P53 Targets	CSPP1	NA
+LIN37 independent P53 Targets	MPP6	NA
+LIN37 independent P53 Targets	ANO6	NA
+LIN37 independent P53 Targets	CCT5	NA
+LIN37 independent P53 Targets	KATNAL1	NA
+LIN37 independent P53 Targets	GALNT14	NA
+LIN37 independent P53 Targets	AZIN1	NA
+LIN37 independent P53 Targets	BAG2	NA
+LIN37 independent P53 Targets	C12orf65	NA
+LIN37 independent P53 Targets	RHEB	NA
+LIN37 independent P53 Targets	CTCF	NA
+LIN37 independent P53 Targets	DNAJC15	NA
+LIN37 independent P53 Targets	CHD1	NA
+LIN37 independent P53 Targets	MAD2L2	NA
+LIN37 independent P53 Targets	CEP70	NA
+LIN37 independent P53 Targets	HNRNPF	NA
+LIN37 independent P53 Targets	KHDRBS1	NA
+LIN37 independent P53 Targets	USP39	NA
+LIN37 independent P53 Targets	DIAPH1	NA
+LIN37 independent P53 Targets	GPT2	NA
+LIN37 independent P53 Targets	MDM1	NA
+LIN37 independent P53 Targets	PMF1	NA
+LIN37 independent P53 Targets	SIN3A	NA
+LIN37 independent P53 Targets	TUBB2B	NA
+LIN37 independent P53 Targets	PARP1	NA
+LIN37 independent P53 Targets	KHSRP	NA
+LIN37 independent P53 Targets	ANKRD28	NA
+LIN37 independent P53 Targets	XPOT	NA
+LIN37 independent P53 Targets	TIPIN	NA
+LIN37 independent P53 Targets	LRRC58	NA
+LIN37 independent P53 Targets	TEAD4	NA
+LIN37 independent P53 Targets	RAP1GDS1	NA
+LIN37 independent P53 Targets	TWISTNB	NA
+LIN37 independent P53 Targets	TCEA1	NA
+LIN37 independent P53 Targets	DARS2	NA
+LIN37 independent P53 Targets	CEBPZ	NA
+LIN37 independent P53 Targets	TBL1XR1	NA
+LIN37 independent P53 Targets	YARS	NA
+LIN37 independent P53 Targets	TNPO3	NA
+LIN37 independent P53 Targets	SEPHS1	NA
+LIN37 independent P53 Targets	HNRNPA1	NA
+LIN37 independent P53 Targets	TCHP	NA
+LIN37 independent P53 Targets	MBNL1	NA
+LIN37 independent P53 Targets	DCTPP1	NA
+LIN37 independent P53 Targets	ZNF639	NA
+LIN37 independent P53 Targets	NIN	NA
+LIN37 independent P53 Targets	ATF4	NA
+LIN37 independent P53 Targets	POLD2	NA
+LIN37 independent P53 Targets	CDKAL1	NA
+LIN37 independent P53 Targets	MLKL	NA
+LIN37 independent P53 Targets	HNRNPH3	NA
+LIN37 independent P53 Targets	TUBG1	NA
+LIN37 independent P53 Targets	DLAT	NA
+LIN37 independent P53 Targets	MAP3K4	NA
+LIN37 independent P53 Targets	BNIP1	NA
+LIN37 independent P53 Targets	NSD3	NA
+LIN37 independent P53 Targets	LIMS1	NA
+LIN37 independent P53 Targets	COQ7	NA
+LIN37 independent P53 Targets	TTLL4	NA
+LIN37 independent P53 Targets	COMMD10	NA
+LIN37 independent P53 Targets	SKIV2L2	NA
+LIN37 independent P53 Targets	PPP3R1	NA
+LIN37 independent P53 Targets	HS2ST1	NA
+LIN37 independent P53 Targets	TMEM109	NA
+LIN37 independent P53 Targets	MRPS34	NA
+LIN37 independent P53 Targets	DHCR7	NA
+LIN37 independent P53 Targets	ATP11C	NA
+LIN37 independent P53 Targets	TLK1	NA
+LIN37 independent P53 Targets	LIN52	NA
+LIN37 independent P53 Targets	PIGU	NA
+LIN37 independent P53 Targets	SEC22C	NA
+LIN37 independent P53 Targets	RBBP4	NA
+LIN37 independent P53 Targets	NUP88	NA
+LIN37 independent P53 Targets	KDM1A	NA
+LIN37 independent P53 Targets	CD320	NA
+LIN37 independent P53 Targets	CHD4	NA
+LIN37 independent P53 Targets	SFXN1	NA
+LIN37 independent P53 Targets	HNRNPA3	NA
+LIN37 independent P53 Targets	SMS	NA
+LIN37 independent P53 Targets	SSBP3	NA
+LIN37 independent P53 Targets	LONP1	NA
+LIN37 independent P53 Targets	CNTROB	NA
+LIN37 independent P53 Targets	PLPP2	NA
+LIN37 independent P53 Targets	FAM20B	NA
+LIN37 independent P53 Targets	GARS	NA
+LIN37 independent P53 Targets	PAFAH1B3	NA
+LIN37 independent P53 Targets	HP1BP3	NA
+LIN37 independent P53 Targets	PAXIP1	NA
+LIN37 independent P53 Targets	NUP58	NA
+LIN37 independent P53 Targets	CPSF6	NA
+LIN37 independent P53 Targets	NEK1	NA
+LIN37 independent P53 Targets	ADIPOR2	NA
+LIN37 independent P53 Targets	NOP58	NA
+LIN37 independent P53 Targets	DGCR8	NA
+LIN37 independent P53 Targets	HDGF	NA
+LIN37 independent P53 Targets	SLC3A2	NA
+LIN37 independent P53 Targets	BUB3	NA
+LIN37 independent P53 Targets	PRELID1	NA
+LIN37 independent P53 Targets	MKS1	NA
+LIN37 independent P53 Targets	THRAP3	NA
+LIN37 independent P53 Targets	PPIF	NA
+LIN37 independent P53 Targets	RDX	NA
+LIN37 independent P53 Targets	POGZ	NA
+LIN37 independent P53 Targets	THOC1	NA
+LIN37 independent P53 Targets	EIF4EBP1	NA
+LIN37 independent P53 Targets	CDK4	NA
+LIN37 independent P53 Targets	ANAPC1	NA
+LIN37 independent P53 Targets	ENAH	NA
+LIN37 independent P53 Targets	DHX15	NA
+LIN37 independent P53 Targets	LANCL1	NA
+LIN37 independent P53 Targets	XPO7	NA
+LIN37 independent P53 Targets	FAF1	NA
+LIN37 independent P53 Targets	CEP170	NA
+LIN37 independent P53 Targets	NUDC	NA
+LIN37 independent P53 Targets	HNRNPH1	NA
+LIN37 independent P53 Targets	STRBP	NA
+LIN37 independent P53 Targets	SF3B3	NA
+LIN37 independent P53 Targets	MYH10	NA
+LIN37 independent P53 Targets	TXLNG	NA
+LIN37 independent P53 Targets	RAN	NA
+LIN37 independent P53 Targets	SMARCA5	NA
+LIN37 independent P53 Targets	GULP1	NA
+LIN37 independent P53 Targets	DTD1	NA
+LIN37 independent P53 Targets	NCOA5	NA
+LIN37 independent P53 Targets	STIP1	NA
+LIN37 independent P53 Targets	TAF5L	NA
+LIN37 independent P53 Targets	DCAF1	NA
+LIN37 independent P53 Targets	ZNF148	NA
+LIN37 independent P53 Targets	PATZ1	NA
+LIN37 independent P53 Targets	KIF2A	NA
+LIN37 independent P53 Targets	FKBP4	NA
+LIN37 independent P53 Targets	SF1	NA
+LIN37 independent P53 Targets	KAT7	NA
+LIN37 independent P53 Targets	EBAG9	NA
+LIN37 independent P53 Targets	SRRM1	NA
+LIN37 independent P53 Targets	ZNF395	NA
+LIN37 independent P53 Targets	R3HDM1	NA
+LIN37 independent P53 Targets	TCF3	NA
+LIN37 independent P53 Targets	RAB8A	NA
+LIN37 independent P53 Targets	MARS	NA
+LIN37 independent P53 Targets	CWC27	NA
+LIN37 independent P53 Targets	DYRK1A	NA
+LIN37 independent P53 Targets	EHMT2	NA
+LIN37 independent P53 Targets	MRPS18B	NA
+LIN37 independent P53 Targets	CUL3	NA
+LIN37 independent P53 Targets	NONO	NA
+LIN37 independent P53 Targets	ADNP	NA
+LIN37 independent P53 Targets	LRP8	NA
+LIN37 independent P53 Targets	CTDSP1	NA
+LIN37 independent P53 Targets	CS	NA
+LIN37 independent P53 Targets	TCF12	NA
+LIN37 independent P53 Targets	HDAC1	NA
+LIN37 independent P53 Targets	GNB1	NA
